@@ -23,3 +23,5 @@ There's no going back this time
 I think I finally lost my mind
 Just want to leave it all behind
 And I'll see you in another life
+
+#thecasketdiaries #Paradox #lyrics 

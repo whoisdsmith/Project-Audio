@@ -29,3 +29,6 @@ I know I can be the light, I just need some time
 And lately I've been feeling all this weight up in my brain and I just need to get away but I can't ever get away and I just know that I'm struggling yeah I'm struggling I need to move on with my life cuz it's crumbling
 
 everyday is just the same and I've been trying to get away but I can't ever get away cause nothing ever seems to change and Im tired of the chase I need a change of pace and a break from the heartache
+
+
+#lyrics #thecasketdiaries #Intotheunknownofthecosmos 

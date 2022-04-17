@@ -9,4 +9,4 @@ dg-publish: true
 
 ![[The-Casket-Diaries-Logo.jpeg]]
 
-#logo 
+#logo #thecasketdiaries 

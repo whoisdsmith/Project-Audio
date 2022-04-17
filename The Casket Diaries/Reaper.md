@@ -8,9 +8,9 @@ dg-publish: true
 ---
 
 
-Gravedigger, Life Taker
+[[Gravedigger]] , [[Lifetaker]]
 Bet you never thought you’d see my face again
-Betrayer, Backstabber
+[[Betrayer]], [[Backstabber]]
 This time there’s only one way it ends
 
 Stabbed me in the back

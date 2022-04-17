@@ -33,3 +33,5 @@ I'll light the dark so there's no reason to be scared
 Don't give up, don't give up on me now
 
 I will lead you out I promise
+
+#lyrics #thecasketdiaries #Intotheunknownofthecosmos 

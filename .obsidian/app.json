@@ -1,6 +1,8 @@
 {
   "mobileToolbarCommands": [
     "editor:paste",
+    "editor:move-caret-left",
+    "editor:move-caret-right",
     "editor:insert-wikilink",
     "editor:insert-embed",
     "editor:insert-tag",
@@ -10,20 +12,20 @@
     "editor:insert-link",
     "editor:indent-list",
     "editor:undo",
-    "editor:toggle-keyboard",
+    "editor:toggle-numbered-list",
+    "editor:insert-callout",
+    "editor:context-menu",
+    "highlightr-plugin:Yellow",
+    "highlightr-plugin:Green",
     "editor:configure-toolbar",
-    "obsidian-wordpress:publish",
-    "editor:copy",
-    "editor:move-caret-left",
-    "editor:move-caret-right",
-    "digitalgarden:publish-note"
+    "editor:toggle-keyboard"
   ],
-  "communityPluginSortOrder": "download",
+  "communityPluginSortOrder": "alphabetical",
   "promptDelete": false,
   "legacyEditor": false,
   "livePreview": true,
   "alwaysUpdateLinks": true,
-  "showFrontmatter": true,
-  "strictLineBreaks": true,
+  "showFrontmatter": false,
+  "strictLineBreaks": false,
   "showUnsupportedFiles": true
 }

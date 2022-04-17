@@ -44,7 +44,7 @@ This time it is on
 
  In the dead of night
 I come alive
-I am the Reaper 
+I am the [[Reaper]] 
 You’re gonna die
 
 I’ve got this blade 

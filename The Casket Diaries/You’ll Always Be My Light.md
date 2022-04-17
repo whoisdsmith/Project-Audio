@@ -2,11 +2,11 @@
 
 ---
 
-> My father told me do everything with love
+My father told me do everything with love
 To show up every day, give it my best
 and to never give up
 
-> Dad you made me proud
+Dad you made me proud
 I sing it loud
 that I’m so damn proud
 I wonder if you can
@@ -15,13 +15,13 @@ Up past the clouds
 Through the airwaves
 Into the heavens now
 
-> If you can hear me
+If you can hear me
 ==I hope you know
 Your love was gold
 I love the way you shined
 With a heart that always glowed==
 
-> But now I’m...
+But now I’m...
 heartbroken
 This sucks and
 I miss you
@@ -31,25 +31,28 @@ you’re never coming
 Home again
 No, no
 
-> Tell me all about your life and what it’s like to be a man
+Tell me all about your life and what it’s like to be a man
 I just think about how you saved my life
 when you wore that cape and you wore that smile
 And I miss you, I fucking miss you, oh no
 
-> It’s not the same without you
+It’s not the same without you
 I hope you can hear me
 I hope you know that
 I loved you so deeply
 
-> My father told me do everything with love
+My father told me do everything with love
 To show up every day, give it my best
 and to never give up
 
-> He said “Son, just do your best”
+He said “Son, just do your best”
 
-> Dad I miss you and I hate that you’re gone
+Dad I miss you and I hate that you’re gone
 I hope you know I loved you so much
 you were the best part of growing up
 together you and me had so much fun
 
-> I know that you’re in a better place
+I know that you’re in a better place
+
+
+#lyrics #thecasketdiaries #Intotheunknownofthecosmos 

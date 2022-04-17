@@ -9,10 +9,6 @@
     {
       "commandID": "obsidian-wordpress:publish",
       "iconID": "pencil"
-    },
-    {
-      "commandID": "digitalgarden:publish-note",
-      "iconID": "install"
     }
   ],
   "debugging": false,

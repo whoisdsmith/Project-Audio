@@ -5,7 +5,7 @@ dg-publish: true
 
 # Let Me Down
 
-> Yea every word is truth
+Yea every word is truth
 Bout everything that I been going through
 Every moment feeling blue, 
 My thoughts have me consumed 
@@ -13,12 +13,12 @@ Fantasize hanging by a noose
 My heart can't take anymore abuse
 So sick of feeling used by you
 
->Let me down
+Let me down
 Lock the door on your way out
 Don't come back need solid ground
 I need peace need to heal right now
 
->You think I'm sad and pathetic
+You think I'm sad and pathetic
 I think that I need a medic
 For the sickness you inflicted
 In my mind I can't forget it
@@ -34,17 +34,17 @@ Cause I always seem to lose
 And your turned into somebody
 That I wish I never knew
 
->Let me down
+Let me down
 Lock the door on your way out
 Don't come back need solid ground
 I need peace need to heal right now
 
->Let me down
+Let me down
 Lock the door on your way out
 Don't come back need solid ground
 I need peace need to heal right now
 
->Let me down
+Let me down
 Lock the door on your way out
 Don't come back need solid ground
 I need peace need to heal right now

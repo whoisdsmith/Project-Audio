@@ -10,8 +10,6 @@ Release date: January 21, 2022
 
 
 
-
-
 ``I swear to God my life been on repeat
 Every day the same all I feel is defeat
 Feels like my feet are planted in the concrete

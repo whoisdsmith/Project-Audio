@@ -7,12 +7,6 @@ dg-publish: true
 
 ---
 
-
-![[The Casket Diaries gravedigger cover.png]]
-
-
----
-
 ## Gravedigger
 
 ---
