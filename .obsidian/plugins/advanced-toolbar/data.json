@@ -1,0 +1,21 @@
+{
+  "rowHeight": 48,
+  "rowCount": 1,
+  "spacing": 0,
+  "buttonWidth": 48,
+  "columnLayout": true,
+  "alwaysShowToolbar": false,
+  "mappedIcons": [
+    {
+      "commandID": "obsidian-wordpress:publish",
+      "iconID": "pencil"
+    },
+    {
+      "commandID": "digitalgarden:publish-note",
+      "iconID": "install"
+    }
+  ],
+  "debugging": false,
+  "allowStylingOfAllActions": false,
+  "tooltips": false
+}
