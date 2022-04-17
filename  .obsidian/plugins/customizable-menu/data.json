@@ -1,0 +1,9 @@
+{
+  "menuCommands": [
+    {
+      "name": "Digital Garden: Open Publication Center",
+      "id": "digitalgarden:dg-open-publish-modal",
+      "icon": "bold-glyph"
+    }
+  ]
+}

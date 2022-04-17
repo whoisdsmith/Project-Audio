@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "d5dcb7895d4d983d",
+    "type": "split",
+    "children": [
+      {
+        "id": "02db89b543ab6508",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "The Casket Diaries/The Casket Diaries.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c52f00832f27daed",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "32e84eb177d57b9e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "d02e33fc558daaf5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "6d5c485c9fcca6aa",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e81ae787263348df",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "The Casket Diaries/The Casket Diaries.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "634dd9074ec51f48",
+        "type": "leaf",
+        "state": {
+          "type": "map-of-content",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "02db89b543ab6508",
+  "lastOpenFiles": [
+    "The Casket Diaries/The Casket Diaries.md",
+    "The Casket Diaries/Gravedigger Files.md",
+    "The Casket Diaries/2022 - Gravedigger/Gravedigger.md",
+    "The Casket Diaries/Endings/Endings.md",
+    "Lyrics.md",
+    "The Casket Diaries/ISRC.md",
+    "The Casket Diaries/Release.md",
+    "The Casket Diaries/Releases.md",
+    "Endings.txt",
+    "unlinked files output.md"
+  ]
+}
