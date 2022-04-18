@@ -42,5 +42,8 @@
   "obsidian-frontmatter-tag-suggest",
   "highlightr-plugin",
   "obsidian-style-settings",
-  "obsidian-linter"
+  "obsidian-linter",
+  "obsidian-format-code",
+  "markdown-prettifier",
+  "obsidian-plugin-prettier"
 ]
