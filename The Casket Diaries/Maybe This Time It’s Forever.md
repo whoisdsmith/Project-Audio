@@ -1,9 +1,7 @@
----
-dg-home: true
-dg-publish: true
----
-
 # Maybe This Time It’s Forever
+## [[Endings]]
+
+---
 
 Lately I been going crazy
 hoping maybe somebody
@@ -39,5 +37,7 @@ Am I really someone who won't be remembered?
 As I fall asleep maybe this time it's forever
 
 Hold on, hold on, hold on, hold on
+
+---
 
 #lyrics #endings #thecasketdiaries 

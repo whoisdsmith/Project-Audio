@@ -1,8 +1,7 @@
----
-dg-home: true
-dg-publish: true
----
 # Cemetery Weather
+## [[Endings]]
+
+---
 
 Here to stay? I wish you were
 Now you get away and leave me broken
@@ -48,5 +47,7 @@ And I'm running away from you baby
 Telling myself that I'm not crazy
 All you ever fucking did was blame me
 But now it's time for us to end
+
+---
 
 #lyrics #endings #thecasketdiaries 

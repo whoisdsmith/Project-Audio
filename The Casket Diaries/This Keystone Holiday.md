@@ -1,9 +1,7 @@
----
-dg-home: true
-dg-publish: true
----
-
 # This Keystone Holiday
+## [[Endings]]
+
+---
 
 This year I have nothing under the tree
 Except regrets about the times you had with me
@@ -45,5 +43,7 @@ Which is you wrapped up in lights
 Plugged in and drowning
 I know it won’t be my name that you’re calling
 But that’s ok cause down to hell you will be falling
+
+---
 
 #lyrics #endings #thecasketdiaries 

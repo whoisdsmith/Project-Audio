@@ -1,9 +1,5 @@
----
-dg-home: true
-dg-publish: true
----
-
 # Entry I
+## [[Gravedigger Album]]
 ---
 
 It's hard not to hate. People, things, institutions, when they break your spirit and take pleasure in watching you bleed, hate is the only feeling that makes sense. 

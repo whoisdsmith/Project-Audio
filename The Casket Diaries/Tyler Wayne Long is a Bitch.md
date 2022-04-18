@@ -1,18 +1,15 @@
----
-dg-home: true
-dg-publish: true
----
 # Tyler Wayne Long is a Bitch
-
-DK UPC: 196700484629
-Uploaded: January 27, 2022
-Release date: February 4, 2022
-
-
-
+## [[Singles]]
 ---
 
 ![[Tyler Wayne Long is a Bitch.JPG]]
+
+Uploaded: January 27, 2022
+Release date: February 4, 2022
+
+`DK UPC: 196700484629`
+
+---
 
 
 Bitch,

@@ -1,9 +1,7 @@
----
-dg-home: true
-dg-publish: true
----
-
 # Return to Sender
+## [[Endings]]
+
+---
 
 Yeah it's hard to wake
 Hard to face
@@ -33,5 +31,7 @@ I Left you in your bullshit
 
 And I don't want you to drown
 But you chose this for yourself now
+
+---
 
 #lyrics #endings #thecasketdiaries 

@@ -1,11 +1,11 @@
 # Rebirth
-
+## [[Endings]]
 ---
 
-==I just want my words to matter
+I just want my words to matter
 To inspire hope and a little laughter
 Maybe one day get that happy ever after
-For now I'm at the bottom tryna climb the ladder==
+For now I'm at the bottom tryna climb the ladder
 
 Been out here on my own
 Grinding all alone
@@ -19,10 +19,10 @@ And all That pain and sadness
 Ain't ever trying to show
 Spent way too many nights
 Living like Im on death row
-And ==Now my only goal
+And Now my only goal
 turn that sorrow into gold
 And Light up the whole room
-When I walk in because I glow==
+When I walk in because I glow
 
 I never wanna feel this way again
 So low so low so low

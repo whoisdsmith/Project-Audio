@@ -1,12 +1,6 @@
----
-dg-home: true
-dg-publish: true
----
-
 # Songs
 
 ---
-
 
 [[Alive In December]]
 [[Cemetery Weather]]

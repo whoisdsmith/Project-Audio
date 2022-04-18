@@ -1,10 +1,8 @@
----
-dg-home: true
-dg-publish: true
+# Unreleased
+
 ---
 
 
-├── 2021_02_26_21_22_IMG_5355.png
 ├── The Casket Diaries - Unreleased - 1992.mp3
 ├── The Casket Diaries - Unreleased - 6 Dogs.mp3
 ├── The Casket Diaries - Unreleased - Betrayer.mp3
@@ -22,8 +20,7 @@ dg-publish: true
 ├── The Casket Diaries - Unreleased - What I'd Give.mp3
 ├── The Casket Diaries - Unreleased - Won't Change.mp3
 ├── The Casket Diaries - Unreleased - You’ll Always Be My Light.mp3
-└── output.md
 
-0 directories, 19 files
+---
 
 #thecasketdiaries #Files #Unreleased 

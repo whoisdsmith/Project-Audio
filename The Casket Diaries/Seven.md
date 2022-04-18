@@ -1,9 +1,7 @@
----
-dg-home: true
-dg-publish: true
----
-
 # Seven
+## [[Endings]]
+
+---
 
 It's been 7 years to the day
 When your mom she called me 
@@ -40,5 +38,7 @@ I kept
 
 The world stopped turning
 Confusion burning I was
+
+---
 
 #lyrics #endings #thecasketdiaries 

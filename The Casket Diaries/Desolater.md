@@ -1,0 +1,4 @@
+# Desolater
+## [[Gravedigger Album]]
+
+---

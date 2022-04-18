@@ -1,9 +1,7 @@
----
-dg-home: true
-dg-publish: true
----
-
 # Lost In The Airwaves
+## [[Endings]]
+
+---
 
 Where do I go from here
 I'm lost and on my own 
@@ -21,5 +19,7 @@ Told you one day I would marry you
 Make all your dreams come true 
 Guess that I couldn't come through
 Cause you found yourself with somebody new
+
+---
 
 #lyrics #endings #thecasketdiaries 

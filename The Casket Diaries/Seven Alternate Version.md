@@ -1,9 +1,7 @@
----
-dg-home: true
-dg-publish: true
----
-
 # Seven-Alternate Version
+## [[Unreleased]]
+
+---
 
 
 It's been 7 years to the day
@@ -66,5 +64,6 @@ I kept
 The world stopped turning
 Confusion burning I was
 
+---
 
 #lyrics #alternateversion #endings 

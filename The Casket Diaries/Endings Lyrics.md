@@ -1,13 +1,5 @@
----
-dg-home: true
-dg-publish: true
----
-
 # Endings Lyrics
-
-
-
-
+---
 
 [[Alive In December]]
 [[Cemetery Weather]]
@@ -21,6 +13,6 @@ dg-publish: true
 [[This Keystone Holiday]]
 [[Youll Float Too]]
 
-
+---
 
 #lyrics #thecasketdiaries #album 

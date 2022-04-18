@@ -26,7 +26,7 @@
 
 ## Home
 
-[[Release]]
+[[The Casket Diaries/Official_Release]]
 
 [[Releases]]
 
@@ -58,7 +58,7 @@
 
 [[logos]]
 
-[[Paradox]]
+[[The Casket Diaries/Paradox_EP]]
 
 [[Hateme]]
 
@@ -98,7 +98,7 @@
 
 [[Growing Pains Bridge]]
 
-[[Growing Pains 2]]
+[[The Casket Diaries/Growing Pains]]
 
 [[Hate Me]]
 

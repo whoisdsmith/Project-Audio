@@ -1,3 +1,8 @@
+# Premeditated 
+## [[Paradox_EP]]
+
+---
+
 Got some shit I want to say
 Not sure where I should start at
 I will accept all of the blame
@@ -23,5 +28,7 @@ There's no going back this time
 I think I finally lost my mind
 Just want to leave it all behind
 And I'll see you in another life
+
+---
 
 #thecasketdiaries #Paradox #lyrics 

@@ -1,10 +1,5 @@
----
-dg-home: true
-dg-publish: true
----
-
 # Reaper
-
+## [[Gravedigger Album]]
 ---
 
 

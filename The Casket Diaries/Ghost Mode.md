@@ -1,8 +1,8 @@
 # Ghost Mode
-
+## [[Into The Unknown of The Cosmos]]
 ---
 
-``Get the fuck out my face
+Get the fuck out my face
 Stay the fuck out my way
 Tellin me every day
 That I ain't shit but that's ok
@@ -11,7 +11,7 @@ Stay the fuck out my way
 Tellin me every day
 That I ain't shit but that's ok``
 
-``Broke my heart
+Broke my heart
 Stabbed my back
 Left me for dead
 Found in the trash

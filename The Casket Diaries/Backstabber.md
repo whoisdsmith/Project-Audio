@@ -1,9 +1,7 @@
----
-dg-home: true
-dg-publish: true
----
-
 # Backstabber
+## [[Gravedigger Album]]
+
+---
 
 Straight out the fucking grave I came
 I told your ass that I'd be back again for you
@@ -77,5 +75,7 @@ get you out my head
 I'm a cut you head to toe
 And send your soul
 straight down to hell
+
+---
 
 #lyrics #thecasketdiaries #Gravedigger 

@@ -1,5 +1,5 @@
 # You’ll Always Be My Light
-
+## [[Into The Unknown of The Cosmos]]
 ---
 
 My father told me do everything with love
@@ -16,10 +16,10 @@ Through the airwaves
 Into the heavens now
 
 If you can hear me
-==I hope you know
+I hope you know
 Your love was gold
 I love the way you shined
-With a heart that always glowed==
+With a heart that always glowed
 
 But now I’m...
 heartbroken
@@ -54,5 +54,6 @@ together you and me had so much fun
 
 I know that you’re in a better place
 
+---
 
 #lyrics #thecasketdiaries #Intotheunknownofthecosmos 

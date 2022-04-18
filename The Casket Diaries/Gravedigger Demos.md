@@ -1,11 +1,7 @@
----
-dg-home: true
-dg-publish: true
+# Gravedigger Demos
+
 ---
 
-├── AlbumArtSmall.jpg
-├── F69CC1A6-7CEF-4DFB-93EB-3A213F22C901.JPEG
-├── Folder.jpg
 ├── The Casket Diaries - Gravedigger Demos - Dead Man Walking (Revper Version).mp3
 ├── The Casket Diaries - Gravedigger Demos - Dead Man Walking.mp3
 ├── The Casket Diaries - Gravedigger Demos - Desolater Demo II.mp3
@@ -33,8 +29,7 @@ dg-publish: true
 ├── The Casket Diaries - Gravedigger Demos - Revenger.mp3
 ├── The Casket Diaries - Gravedigger Demos - Revper.mp3
 ├── The Casket Diaries - Gravedigger Demos - Rise.mp3
-└── output.md
 
-0 directories, 31 files
+---
 
 #thecasketdiaries #Gravedigger #Demos 

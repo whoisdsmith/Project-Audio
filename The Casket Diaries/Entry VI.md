@@ -1,0 +1,4 @@
+# Entry VI
+## [[Gravedigger Album]]
+
+---

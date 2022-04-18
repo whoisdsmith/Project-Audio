@@ -1,9 +1,7 @@
----
-dg-home: true
-dg-publish: true
----
-
 # Ending
+## [[Endings]]
+
+---
 
 I don't know where to go 
 all I know is that I'm losing control of my soul 
@@ -71,5 +69,6 @@ and I'm feeling so cold
 turn my heart into stone 
 you know I don't deserve this
 
+---
 
 #lyrics #endings #thecasketdiaries 

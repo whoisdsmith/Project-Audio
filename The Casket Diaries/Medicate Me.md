@@ -1,9 +1,8 @@
----
-dg-home: true
-dg-publish: true
----
-
 # Medicate Me
+## [[Endings]]
+
+
+---
 
 My thoughts have got me fucked up,
 Can't get my mind to shut off
@@ -42,5 +41,7 @@ I don't know how to let you go
 For so long you've been all I know
 You and I were supposed to grow old
 If you're not mine I'd rather die alone
+
+---
 
 #lyrics #endings #thecasketdiaries 

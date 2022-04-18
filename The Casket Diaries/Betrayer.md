@@ -1,11 +1,5 @@
-
----
-dg-home: true
-dg-publish: true
----
-
 # Betrayer
-
+## [[Gravedigger Album]]
 ---
 
 Straight out the fucking grave I came

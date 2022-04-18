@@ -1,12 +1,6 @@
----
-dg-home: true
-dg-publish: true
----
-
 # Revenger
-
+## [[Gravedigger Album]]
 ---
-
 
 In the dead of the night
 breathe in and out 

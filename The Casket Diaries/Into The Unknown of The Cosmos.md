@@ -1,6 +1,5 @@
----
-dg-home: true
-dg-publish: true
+# Into The Unknown of The Cosmos
+
 ---
 
 ├── 01 - The Casket Diaries - Into The Unknown of The Cosmos - Death Is An Open Door.mp3
@@ -17,7 +16,6 @@ dg-publish: true
 ├── 12 - The Casket Diaries - Into The Unknown of The Cosmos - Ghost Mode.mp3
 ├── 13 - The Casket Diaries - Into The Unknown of The Cosmos - Rebirth.mp3
 
-
-0 directories, 13 files
+---
 
 #thecasketdiaries #Intotheunknownofthecosmos #Files 

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "581b44f0953c8003",
+        "id": "6c6d2dc6918df372",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -105,37 +105,24 @@
               "state": {}
             }
           }
-        ]
-      },
-      {
-        "id": "ab1edcfe0269e639",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b8047060eaed95a0",
-            "type": "leaf",
-            "state": {
-              "type": "map-of-content",
-              "state": {}
-            }
-          }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "581b44f0953c8003",
+  "active": "6c6d2dc6918df372",
   "lastOpenFiles": [
-    "The Casket Diaries.md",
-    "templates/post.md",
+    "Music/The Casket Diaries/Gravedigger.md",
+    "The Casket Diaries/Youll Float Too.md",
+    "The Casket Diaries/You’ll Always Be My Light.md",
+    "The Casket Diaries/You'll Float Too Alternate Version.md",
+    "The Casket Diaries/Unreleased.md",
+    "The Casket Diaries/Tyler Wayne Long is a Bitch.md",
+    "The Casket Diaries/This Keystone Holiday.md",
+    "The Casket Diaries/The Light Wont Reach You.md",
     "The Casket Diaries/The Casket Diaries.md",
-    "notes.md",
-    "_index.md",
-    "Photos/Into The Unknown of The Cosmos Covers/20210625215321.JPG",
-    "The Casket Diaries/Life on Repeat_.md",
-    "The Casket Diaries/Life On Repeat.md",
-    "unlinked files output.md",
-    "Endings.txt"
+    "The Casket Diaries/Take My Hand.md"
   ]
 }

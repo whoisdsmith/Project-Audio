@@ -1,9 +1,5 @@
----
-dg-home: true
-dg-publish: true
----
-
 # Gravedigger
+## [[Gravedigger Album]]
 ---
 
 I still go back to that day

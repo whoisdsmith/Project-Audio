@@ -1,10 +1,7 @@
----
-dg-home: true
-dg-publish: true
----
-
 # You'll Float Too-Alternate Version
+## [[Unreleased]]
 
+---
 
 Girl why you hit my phone,
 After leaving me alone?
@@ -87,5 +84,7 @@ Cause my heart is made of gold
 And this story will be told
 Stephen king already knows
 It's his story I rewrote
+
+---
 
 #lyrics #endings #thecasketdiaries #alternateversion 

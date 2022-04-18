@@ -1,8 +1,7 @@
----
-dg-home: true
-dg-publish: true
----
 # Alive In December
+## [[Endings]]
+
+---
 
 Alive in December
 It's been 3 years 
@@ -22,6 +21,7 @@ I tried to put myself back together
 It's been 3 years 
 and I'm alive in December
 
-
+---
 
 #lyrics #endings  #thecasketdiaries
+

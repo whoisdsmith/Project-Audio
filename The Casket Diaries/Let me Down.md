@@ -1,9 +1,7 @@
----
-dg-home: true
-dg-publish: true
----
-
 # Let Me Down
+## [[Endings]]
+
+---
 
 Yea every word is truth
 Bout everything that I been going through
@@ -49,8 +47,6 @@ Lock the door on your way out
 Don't come back need solid ground
 I need peace need to heal right now
 
-
-
-
+---
 
 #lyrics #endings #thecasketdiaries 
