@@ -4,94 +4,138 @@
     "type": "split",
     "children": [
       {
-        "id": "7ac992e8831cf774",
+        "id": "581b44f0953c8003",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "The Casket Diaries/Paradox Lyrics.md",
-            "mode": "preview",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c52f00832f27daed",
-    "type": "mobile-drawer",
+    "id": "904f89ee48534784",
+    "type": "split",
     "children": [
       {
-        "id": "32e84eb177d57b9e",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "d02e33fc558daaf5",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "7a222ee7cdd791bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8faace48e245543a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d61f7ba54578515",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "6d5c485c9fcca6aa",
-    "type": "mobile-drawer",
+    "id": "41ba0a68599be652",
+    "type": "split",
     "children": [
       {
-        "id": "e81ae787263348df",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "The Casket Diaries/Paradox Lyrics.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": true,
-            "unlinkedCollapsed": false
+        "id": "16056e6400631bcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc0bbc231e44c71e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "332cec661962e1b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6682de8d8e5296d2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ab4d4c164e697a30",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
-        }
+        ]
       },
       {
-        "id": "634dd9074ec51f48",
-        "type": "leaf",
-        "state": {
-          "type": "map-of-content",
-          "state": {}
-        }
+        "id": "ab1edcfe0269e639",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8047060eaed95a0",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
-  "active": "7ac992e8831cf774",
+  "active": "581b44f0953c8003",
   "lastOpenFiles": [
-    "The Casket Diaries/Paradox Lyrics.md",
-    "The Casket Diaries/Into The Unknown of The Cosmos Lyrics.md",
-    "The Casket Diaries/Into The Unknown of The Cosmos Album.md",
-    "The Casket Diaries/Into The Unknown of The Cosmos.md",
-    "The Casket Diaries/Entry VI.md",
-    "The Casket Diaries/Gravedigger Lyrics.md",
-    "The Casket Diaries/Desolater.md",
-    "The Casket Diaries/Gravedigger Album.md",
-    "The Casket Diaries/Entry IV.md",
-    "The Casket Diaries/Gravedigger.md"
+    "The Casket Diaries.md",
+    "templates/post.md",
+    "The Casket Diaries/The Casket Diaries.md",
+    "notes.md",
+    "_index.md",
+    "Photos/Into The Unknown of The Cosmos Covers/20210625215321.JPG",
+    "The Casket Diaries/Life on Repeat_.md",
+    "The Casket Diaries/Life On Repeat.md",
+    "unlinked files output.md",
+    "Endings.txt"
   ]
 }

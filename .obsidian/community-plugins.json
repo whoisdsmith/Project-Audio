@@ -32,10 +32,14 @@
   "copy-as-html",
   "get-info-plugin",
   "obsidian-rich-links",
-  "obsidian-dangling-links",
+  "obsidian-plugin-toc",
   "obsidian-sort-and-permute-lines",
+  "obsidian-search-everywhere-plugin",
+  "obsidian-gallery",
   "obsidian-admonition",
+  "obsidian-dangling-links",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-frontmatter-tag-suggest",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "obsidian-style-settings"
 ]

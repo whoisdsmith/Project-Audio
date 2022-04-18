@@ -13,19 +13,16 @@
         }
       ],
       "icon": "logo-crystal"
-    },
-    {
-      "id": "obsidian-local-images:download-images-all",
-      "name": "Local images: Download images locally for all your notes",
-      "icon": "image-file"
-    },
-    {
-      "id": "find-unlinked-files:find-unlinked-files",
-      "name": "Find unlinked files and unresolved links: Find unlinked files",
-      "icon": "broken-link"
     }
   ],
   "hiddenCommands": [
-    "Open Markdown importer"
-  ]
+    "Open Markdown importer",
+    "Digital Garden Publication Center",
+    "WordPress Publish",
+    "Rich Links"
+  ],
+  "pinSidebar": {
+    "right": true,
+    "left": true
+  }
 }
