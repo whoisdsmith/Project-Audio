@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/The Casket Diaries /The Casket Diaries.md",
+            "file": "project_audio.md",
             "mode": "source",
+            "backlinks": true,
             "source": false
           }
         }
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/The Casket Diaries /The Casket Diaries.md",
+                "file": "project_audio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +82,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "d366f8262818345e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "285bdc71dfcf0ec4",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -89,6 +104,13 @@
   },
   "active": "00896dcdd0072d98",
   "lastOpenFiles": [
+    "project_audio.md",
+    "The Casket Diaries/The Casket Diaries.md",
+    "Photos/Logos Banners/Endings Banner.JPG",
+    "Photos/Logos Banners/Music Background.jpeg",
+    "Photos/Logos Banners/Reaper icon.PNG",
+    "Photos/Logos Banners/tcd.png",
+    "Photos/Logos Banners/The-Casket-Diaries-Logo.jpeg",
     "content/The Casket Diaries /The Casket Diaries.md"
   ]
 }
