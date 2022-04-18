@@ -1,7 +1,8 @@
 ---
 date created: Sunday, April 17th 2022, 12:36:36 pm
-date modified: Sunday, April 17th 2022, 9:47:16 pm
-title: The Casket Diaries
+date modified: Monday, April 18th 2022, 2:10:53 pm
+title: "The Casket Diaries"
+banner: "![[Photos /Logos Banners/Endings Banner.JPG]]"
 ---
 # The Casket Diaries
 
@@ -12,19 +13,28 @@ title: The Casket Diaries
 
 ### Albums
 
-[[Endings]]
+**[[Endings]]** / [Spotify](https://open.spotify.com/album/520O54VsWpkbuTFRVVg9KN) / [Apple Music](https://music.apple.com/album/1583270406)
 
-[[Into The Unknown of The Cosmos]]
+**[[Into The Unknown of The Cosmos]]** / [Spotify](https://open.spotify.com/album/7ix5yrDo1IDpXXp5yMSF9y) / [Apple Music](https://music.apple.com/album/1607776010)
 
-[[Gravedigger Album]]
 
 
 
 ### Singles
 
-[[Life On Repeat_]]
+**[[Life On Repeat_]]** / [Spotify](https://open.spotify.com/track/2N3WyinI7dXw4w89MgifQx)  / [Apple Music](https://music.apple.com/album/1605693432?i=1605693433)
 
-[[Tyler Wayne Long is a Bitch]]
+**[[Tyler Wayne Long is a Bitch]]** / [Spotify](https://open.spotify.com/track/5iJIF1qCQD9IoE4tu1TwYI)  /[Apple Music ](https://music.apple.com/album/1607466791?i=1607466792)
+
+
+
+---
+
+## Upcoming Releases
+
+### Albums
+
+**[[Gravedigger Album]]**
 
 
 ---

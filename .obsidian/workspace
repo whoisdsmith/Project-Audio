@@ -1,17 +1,16 @@
 {
   "main": {
-    "id": "d5dcb7895d4d983d",
+    "id": "4becaa8ac1aaa278",
     "type": "split",
     "children": [
       {
-        "id": "b45178a3ea9f956c",
+        "id": "00896dcdd0072d98",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Casket Diaries/The Casket Diaries.md",
-            "mode": "preview",
-            "backlinks": true,
+            "file": "content/The Casket Diaries /The Casket Diaries.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -20,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "904f89ee48534784",
+    "id": "246b7d7b131ef105",
     "type": "split",
     "children": [
       {
-        "id": "7a222ee7cdd791bb",
+        "id": "db239f015cf9c160",
         "type": "tabs",
         "children": [
           {
-            "id": "8faace48e245543a",
+            "id": "5ff3c2205f5655e8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -36,7 +35,7 @@
             }
           },
           {
-            "id": "0d61f7ba54578515",
+            "id": "665a29d568e90a67",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -57,76 +56,28 @@
     "width": 300
   },
   "right": {
-    "id": "41ba0a68599be652",
+    "id": "a788286fe9bacf19",
     "type": "split",
     "children": [
       {
-        "id": "16056e6400631bcf",
+        "id": "42a1acb98a0e5436",
         "type": "tabs",
         "children": [
           {
-            "id": "dc0bbc231e44c71e",
+            "id": "dbec59d1398c6fa0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Casket Diaries/The Casket Diaries.md",
+                "file": "content/The Casket Diaries /The Casket Diaries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "332cec661962e1b2",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "The Casket Diaries/The Casket Diaries.md",
-                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "6682de8d8e5296d2",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "ab4d4c164e697a30",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "The Casket Diaries/The Casket Diaries.md"
-              }
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "fb5e3cec7ba3d24c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "da8106f11539683d",
-            "type": "leaf",
-            "state": {
-              "type": "map-of-content",
-              "state": {}
             }
           }
         ]
@@ -136,17 +87,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b45178a3ea9f956c",
+  "active": "00896dcdd0072d98",
   "lastOpenFiles": [
-    "The Casket Diaries/The Casket Diaries.md",
-    "The Casket Diaries/The Light Wont Reach You.md",
-    "The Casket Diaries/Tyler Wayne Long is a Bitch.md",
-    "The Casket Diaries/This Keystone Holiday.md",
-    "The Casket Diaries/Unreleased.md",
-    "The Casket Diaries/You'll Float Too Alternate Version.md",
-    "The Casket Diaries/Youll Float Too.md",
-    "The Casket Diaries/You’ll Always Be My Light.md",
-    "The Casket Diaries/The light in your dark.md",
-    "The Casket Diaries/Take My Hand.md"
+    "content/The Casket Diaries /The Casket Diaries.md"
   ]
 }

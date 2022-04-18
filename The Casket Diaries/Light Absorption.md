@@ -1,7 +1,8 @@
 ---
 date created: Sunday, April 17th 2022, 12:36:35 pm
-date modified: Sunday, April 17th 2022, 9:37:58 pm
+date modified: Monday, April 18th 2022, 2:10:53 pm
 title: Light Absorption
+"title": Light Absorption
 ---
 # Light Absorption
 ## [[Into The Unknown of The Cosmos]]

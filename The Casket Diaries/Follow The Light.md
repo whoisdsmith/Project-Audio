@@ -1,7 +1,8 @@
 ---
 date created: Sunday, April 17th 2022, 12:36:35 pm
-date modified: Sunday, April 17th 2022, 9:57:22 pm
+date modified: Monday, April 18th 2022, 2:10:53 pm
 title: Follow The Light
+"title": Follow The Light
 ---
 # Follow The Light
 ## [[Into The Unknown of The Cosmos]]
