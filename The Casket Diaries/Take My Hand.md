@@ -1,3 +1,8 @@
+---
+date created: Sunday, April 17th 2022, 12:36:36 pm
+date modified: Sunday, April 17th 2022, 9:48:58 pm
+title: Take My Hand
+---
 # Take My Hand
 ## [[Into The Unknown of The Cosmos]]
 ---
@@ -25,4 +30,4 @@ I will lead you out, I promise
 
 ---
 
-#lyrics #Intotheunknownofthecosmos #thecasketdiaries 
+#lyrics #Intotheunknownofthecosmos #thecasketdiaries

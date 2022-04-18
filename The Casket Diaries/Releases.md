@@ -1,3 +1,8 @@
+---
+date created: Sunday, April 17th 2022, 12:36:35 pm
+date modified: Sunday, April 17th 2022, 9:46:35 pm
+title: Releases
+---
 # Releases
 
 ## [[Endings]]
@@ -16,42 +21,42 @@ Release date: August 20, 2021
 
 ---
 
- 1. [[Cemetery Weather]] / [[Music/Audio]] / [[Music/Video]] 
+ 1. [[Cemetery Weather]] / [[Music/Audio]] / [[Music/Video]]
 	```
 	ISRC: QZK6F2127525
 	```
- 2. [[Let me Down]] / [[Music/Audio]] / [[Music/Video]]      
- 
+ 2. [[Let me Down]] / [[Music/Audio]] / [[Music/Video]]
+
         ISRC: QZK6F2127526
-3. [[[Maybe This Time It’s Forever]] / [[Music/Audio]] / [[Music/Video]] 
+3. [[[Maybe This Time It’s Forever]] / [[Music/Audio]] / [[Music/Video]]
 	```
 	 ISRC: QZK6F2127527
 	```
- 4. [[Medicate Me]] / [[Music/Audio]] / [[Music/Video]] 
-         
+ 4. [[Medicate Me]] / [[Music/Audio]] / [[Music/Video]]
+
          ISRC: QZK6F2127528
- 5. [[Lost In The Airwaves]] / [[Music/Audio]] / [[Music/Video]]  
-	     
+ 5. [[Lost In The Airwaves]] / [[Music/Audio]] / [[Music/Video]]
+
 	    ISRC: QZK6F2127529
- 6. [[Alive In December]] / [[Music/Audio]] / [[Music/Video]] 
- 
+ 6. [[Alive In December]] / [[Music/Audio]] / [[Music/Video]]
+
         ISRC: QZK6F2127530
  8. [[Seven]] / [[Music/Audio]] / [[Music/Video]]
 	```
 	ISRC: QZK6F2127531
 	```
- 8. [[This Keystone Holiday]] / [[Music/Audio]] / [[Music/Video]] 
+ 8. [[This Keystone Holiday]] / [[Music/Audio]] / [[Music/Video]]
 	```
 	ISRC: QZK6F2127532
 	```
- 9. [[Return To Sender]] / [[Music/Audio]] / [[Music/Video]] 
- 
+ 9. [[Return To Sender]] / [[Music/Audio]] / [[Music/Video]]
+
         ISRC: QZK6F2127533
-10. [[You'll Float Too]] / [[Music/Audio]] / [[Music/Video]] 
+10. [[You'll Float Too]] / [[Music/Audio]] / [[Music/Video]]
 
         ISRC: QZK6F2127534
-11. [[Ending]] / [[Music/Audio]] / [[Music/Video]]  
-	    
+11. [[Ending]] / [[Music/Audio]] / [[Music/Video]]
+
 	    ISRC: QZK6F2127535
 
 
@@ -131,7 +136,7 @@ Release date: February 4, 2022
 ```
 
 
-  \#Intotheunknownofthecosmos #album #thecasketdiaries 
+  \#Intotheunknownofthecosmos #album #thecasketdiaries
 
 
 ---
@@ -167,4 +172,4 @@ Release date: January 21, 2022
 `ISRC: QZFZ22243777`
 
 
-#thecasketdiaries #album 
+#thecasketdiaries #album

@@ -1,3 +1,8 @@
+---
+date created: Sunday, April 17th 2022, 12:36:35 pm
+date modified: Sunday, April 17th 2022, 10:09:58 pm
+title: Maybe This Time It’s Forever
+---
 # Maybe This Time It’s Forever
 ## [[Endings]]
 
@@ -27,7 +32,7 @@ Find me half dead, laying in the gutter
 Nothing left, I'm homeless in November
 If I meant something, I guess I don't remember
 I'm all alone and on my own I guess forever
-  
+
 Losing hope, Let me go
 Lost my home, I'm letting go
 
@@ -40,4 +45,4 @@ Hold on, hold on, hold on, hold on
 
 ---
 
-#lyrics #endings #thecasketdiaries 
+#lyrics #endings #thecasketdiaries

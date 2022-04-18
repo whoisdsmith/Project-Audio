@@ -1,3 +1,8 @@
+---
+date created: Sunday, April 17th 2022, 12:36:35 pm
+date modified: Sunday, April 17th 2022, 10:10:50 pm
+title: Rebirth
+---
 # Rebirth
 ## [[Endings]]
 ---
@@ -67,4 +72,4 @@ Won't stop till I get where I'm goin
 
 ---
 
-#lyrics #Intotheunknownofthecosmos #thecasketdiaries 
+#lyrics #Intotheunknownofthecosmos #thecasketdiaries

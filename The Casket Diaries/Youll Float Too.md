@@ -1,9 +1,14 @@
+---
+date created: Sunday, April 17th 2022, 12:36:36 pm
+date modified: Sunday, April 17th 2022, 10:11:58 pm
+title: You'll Float Too
+---
 # You'll Float Too
 ## [[Endings]]
 
 ---
 
-## Verse 
+## Verse
 
 Girl why you hit my phone
 After leaving me alone
@@ -63,4 +68,4 @@ Cause down here we all float
 
 ---
 
-#lyrics #endings #thecasketdiaries 
+#lyrics #endings #thecasketdiaries

@@ -1,3 +1,8 @@
+---
+date created: Sunday, April 17th 2022, 12:36:35 pm
+date modified: Sunday, April 17th 2022, 10:08:54 pm
+title: Releases
+---
 # Releases
 
 ## Endings
@@ -13,14 +18,14 @@ Release date: August 20, 2017
 
 ### Tracklist
 
- 1. `ISRC: QZK6F2127525` 
+ 1. `ISRC: QZK6F2127525`
  2. `ISRC: QZK6F2127526`
- 3. `ISRC: QZK6F2127527` 
- 4. `ISRC: QZK6F2127528` 
- 5. `ISRC: QZK6F2127529`  
+ 3. `ISRC: QZK6F2127527`
+ 4. `ISRC: QZK6F2127528`
+ 5. `ISRC: QZK6F2127529`
  6. `ISRC: QZK6F2127530`
  7. `ISRC: QZK6F2127531`
- 8. `ISRC: QZK6F2127532` 
+ 8. `ISRC: QZK6F2127532`
  9. `ISRC: QZK6F2127533`
 10. `ISRC: QZK6F2127534`
 11. `ISRC: QZK6F2127535`
@@ -56,14 +61,14 @@ Release date: February 4, 2022
 
 ---
 
-  #Intotheunknownofthecosmos #album #thecasketdiaries 
+  #Intotheunknownofthecosmos #album #thecasketdiaries
 
 
 ---
 
 # Singles
 
-### Tyler Wayne Long is a Bitch
+## Tyler Wayne Long is a Bitch
 
 ![[Photos/Singles Covers/Tyler Wayne Long is a Bitch.JPG]]
 
@@ -75,7 +80,7 @@ Release date: February 4, 2022
 
 ---
 
-#### Life On Repeat
+### Life On Repeat
 
 ![[Photos/Singles Covers/Life on repeat cover.jpeg]]
 

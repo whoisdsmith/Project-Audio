@@ -1,4 +1,9 @@
-# Premeditated 
+---
+date created: Sunday, April 17th 2022, 12:36:35 pm
+date modified: Sunday, April 17th 2022, 9:42:06 pm
+title: Premeditated 
+---
+# Premeditated
 ## [[Paradox_EP]]
 
 ---
@@ -31,4 +36,4 @@ And I'll see you in another life
 
 ---
 
-#thecasketdiaries #Paradox #lyrics 
+#thecasketdiaries #Paradox #lyrics

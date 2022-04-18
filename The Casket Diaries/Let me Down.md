@@ -1,3 +1,8 @@
+---
+date created: Sunday, April 17th 2022, 12:36:35 pm
+date modified: Sunday, April 17th 2022, 10:09:05 pm
+title: Let Me Down
+---
 # Let Me Down
 ## [[Endings]]
 
@@ -5,8 +10,8 @@
 
 Yea every word is truth
 Bout everything that I been going through
-Every moment feeling blue, 
-My thoughts have me consumed 
+Every moment feeling blue,
+My thoughts have me consumed
 Fantasize hanging by a noose
 My heart can't take anymore abuse
 So sick of feeling used by you
@@ -49,4 +54,4 @@ I need peace need to heal right now
 
 ---
 
-#lyrics #endings #thecasketdiaries 
+#lyrics #endings #thecasketdiaries

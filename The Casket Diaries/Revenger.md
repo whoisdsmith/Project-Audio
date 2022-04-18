@@ -1,13 +1,18 @@
+---
+date created: Sunday, April 17th 2022, 12:36:35 pm
+date modified: Sunday, April 17th 2022, 9:23:24 pm
+title: Revenger
+---
 # Revenger
 ## [[Gravedigger Album]]
 ---
 
 In the dead of the night
-breathe in and out 
+breathe in and out
 As I come back to life
 With open eyes
-I realize 
-I’m in this casket 
+I realize
+I’m in this casket
 Where I died
 
 I see you’re home
@@ -16,47 +21,47 @@ Creepin through your window
 
 Hey mother fucker
 Did you think that I’d forget?
-Did you really think 
-You’d get away with it 
+Did you really think
+You’d get away with it
 
- Well guess what? 
+ Well guess what?
 You’re fucked
-This time 
+This time
 you’re gonna die
 By my hand
 
-I got this blade 
+I got this blade
 With your name on it
 I’ve got some pain
 You’re gonna feel it
 
 Back to hell
 Where you belong
-Mother Fucker 
+Mother Fucker
 I promise you
 This time it is on
 
  In the dead of night
 I come alive
-I am the [[Reaper]] 
+I am the [[Reaper]]
 You’re gonna die
 
-I’ve got this blade 
+I’ve got this blade
 With your name on it
 I’ve got some pain
 And you’re gonna feel it
 
 You took your knife
 And stabbed me In the back
-You took my whats mine, 
+You took my whats mine,
 You took my home
 And everything I owned and
 You smiled so wide
 As you watched me die
-But that’s alright 
+But that’s alright
 Cause now you’re running out of time
 
 ---
 
- 
-#lyrics #thecasketdiaries #Gravedigger 
+
+#lyrics #thecasketdiaries #Gravedigger

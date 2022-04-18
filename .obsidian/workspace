@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6c6d2dc6918df372",
+        "id": "b45178a3ea9f956c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "The Casket Diaries/The Casket Diaries.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Casket Diaries/The Casket Diaries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Casket Diaries/The Casket Diaries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,27 +109,44 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Casket Diaries/The Casket Diaries.md"
+              }
             }
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "fb5e3cec7ba3d24c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da8106f11539683d",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "6c6d2dc6918df372",
+  "active": "b45178a3ea9f956c",
   "lastOpenFiles": [
-    "Music/The Casket Diaries/Gravedigger.md",
-    "The Casket Diaries/Youll Float Too.md",
-    "The Casket Diaries/You’ll Always Be My Light.md",
-    "The Casket Diaries/You'll Float Too Alternate Version.md",
-    "The Casket Diaries/Unreleased.md",
+    "The Casket Diaries/The Casket Diaries.md",
+    "The Casket Diaries/The Light Wont Reach You.md",
     "The Casket Diaries/Tyler Wayne Long is a Bitch.md",
     "The Casket Diaries/This Keystone Holiday.md",
-    "The Casket Diaries/The Light Wont Reach You.md",
-    "The Casket Diaries/The Casket Diaries.md",
+    "The Casket Diaries/Unreleased.md",
+    "The Casket Diaries/You'll Float Too Alternate Version.md",
+    "The Casket Diaries/Youll Float Too.md",
+    "The Casket Diaries/You’ll Always Be My Light.md",
+    "The Casket Diaries/The light in your dark.md",
     "The Casket Diaries/Take My Hand.md"
   ]
 }

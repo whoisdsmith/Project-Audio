@@ -1,3 +1,8 @@
+---
+date created: Sunday, April 17th 2022, 12:36:36 pm
+date modified: Sunday, April 17th 2022, 9:21:15 pm
+title: Tyler Wayne Long is a Bitch
+---
 # Tyler Wayne Long is a Bitch
 ## [[Singles]]
 ---
@@ -21,16 +26,16 @@ And I wish that you were deceased
 And I hit back when I come back you know
 Everything that I do got that perfect flow
 And I’m losing control of all that I know
-Every time when I say things 
+Every time when I say things
 Man you’re not listening
 And you stab be in the fucking back and then
 
 I crawl up out my grave and
 The sights I’m dialing in, oh no
 Keep talking all that shit Bitch
-I pull that trigger back 
-While I’m aiming down the barrel 
-At your mother fucking face 
+I pull that trigger back
+While I’m aiming down the barrel
+At your mother fucking face
 And its time you get a taste
 
 You piece of shit
@@ -44,13 +49,13 @@ And we’ll end this shit the right way
 The only way that I can find
 Some peace in my mind
 
-Right way. 
-The right way 
+Right way.
+The right way
 Ends with you in the grave
-Better live now while you can 
+Better live now while you can
 
-Aiming down the barrel at your mother fucking face 
+Aiming down the barrel at your mother fucking face
 
 ---
 
-#lyrics #Single #thecasketdiaries 
+#lyrics #Single #thecasketdiaries

@@ -17,9 +17,9 @@
   ],
   "hiddenCommands": [
     "Open Markdown importer",
-    "Digital Garden Publication Center",
     "WordPress Publish",
-    "Rich Links"
+    "Rich Links",
+    "Digital Garden Publication Center"
   ],
   "pinSidebar": {
     "right": true,

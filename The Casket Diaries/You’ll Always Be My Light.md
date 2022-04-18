@@ -1,3 +1,8 @@
+---
+date created: Sunday, April 17th 2022, 12:36:36 pm
+date modified: Sunday, April 17th 2022, 9:50:00 pm
+title: You’ll Always Be My Light
+---
 # You’ll Always Be My Light
 ## [[Into The Unknown of The Cosmos]]
 ---
@@ -56,4 +61,4 @@ I know that you’re in a better place
 
 ---
 
-#lyrics #thecasketdiaries #Intotheunknownofthecosmos 
+#lyrics #thecasketdiaries #Intotheunknownofthecosmos

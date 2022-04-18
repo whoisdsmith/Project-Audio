@@ -41,5 +41,6 @@
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-frontmatter-tag-suggest",
   "highlightr-plugin",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-linter"
 ]

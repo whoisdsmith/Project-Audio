@@ -1,4 +1,9 @@
-# Into The Unknown of The Cosmos 
+---
+date created: Sunday, April 17th 2022, 12:36:35 pm
+date modified: Sunday, April 17th 2022, 10:05:26 pm
+title: Into The Unknown of The Cosmos 
+---
+# Into The Unknown of The Cosmos
 
 ---
 
@@ -10,7 +15,7 @@ Release date: February 4, 2022
 
 ---
 
-## Tracklist 
+## Tracklist
 
 ├── 01 - [[Death Is An Open Door]]
 ├── 02 - [[You’ll Always Be My Light]]
@@ -28,4 +33,4 @@ Release date: February 4, 2022
 
 ---
 
-#Intotheunknownofthecosmos #album #thecasketdiaries 
+#Intotheunknownofthecosmos #album #thecasketdiaries

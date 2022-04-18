@@ -1,3 +1,8 @@
+---
+date created: Sunday, April 17th 2022, 12:36:35 pm
+date modified: Sunday, April 17th 2022, 10:10:04 pm
+title: Medicate Me
+---
 # Medicate Me
 ## [[Endings]]
 
@@ -44,4 +49,4 @@ If you're not mine I'd rather die alone
 
 ---
 
-#lyrics #endings #thecasketdiaries 
+#lyrics #endings #thecasketdiaries

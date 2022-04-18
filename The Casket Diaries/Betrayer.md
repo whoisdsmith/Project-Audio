@@ -1,3 +1,8 @@
+---
+date created: Sunday, April 17th 2022, 12:36:35 pm
+date modified: Sunday, April 17th 2022, 9:25:51 pm
+title: Betrayer
+---
 # Betrayer
 ## [[Gravedigger Album]]
 ---
@@ -9,7 +14,7 @@ And Now their ain't a good damn thing that you can ever say or ever change
 Cause the king of death came all this fucking way
 Just to make sure your end is filled with pain
 
-  
+
 And what a shame
 you cannot die every day
 You are such a waste
@@ -54,20 +59,20 @@ You don't get it
 And I won't stop
 Until I get it
 
-  
+
 
 You can run but you can't hide
 Promise you that I will catch up in time
 You can run and you can hide
 Promise you that I will catch up
 
-  
+
 It's a death trap
 everywhere that I'm at
 Everywhere you go
 you know that I will follow
 
-  
+
 You can run but you can't hide
 I'm a catch up and it's gon be the end of you
 End of you
@@ -85,11 +90,11 @@ That I'd be back and now look where I am at
 Cuz I'm not dead
 But you're dead
 Ill do anything to
-get you out my head  
+get you out my head
 I'm a cut you head to toe
 And send your soul
 straight down to hell
 
 ---
 
-#lyrics #Gravedigger #thecasketdiaries 
+#lyrics #Gravedigger #thecasketdiaries

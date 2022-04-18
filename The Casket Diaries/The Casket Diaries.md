@@ -1,9 +1,14 @@
+---
+date created: Sunday, April 17th 2022, 12:36:36 pm
+date modified: Sunday, April 17th 2022, 9:47:16 pm
+title: The Casket Diaries
+---
 # The Casket Diaries
 
 
 ---
 
-## Official Releases 
+## Official Releases
 
 ### Albums
 
@@ -26,7 +31,7 @@
 
 ## Home
 
-[[The Casket Diaries/Official_Release]]
+[[Official_Release]]
 
 [[Releases]]
 
@@ -58,9 +63,7 @@
 
 [[logos]]
 
-[[The Casket Diaries/Paradox_EP]]
-
-[[Hateme]]
+[[Paradox_EP]]
 
 ---
 
@@ -96,10 +99,6 @@
 
 [[Growing Pains]]
 
-[[Growing Pains Bridge]]
-
-[[The Casket Diaries/Growing Pains]]
-
 [[Hate Me]]
 
 [[I cant stay here]]
@@ -128,8 +127,6 @@
 
 [[Rebirth]]
 
-[[Rebirth Remix]]
-
 [[Revenger]]
 
 [[Seven]]
@@ -139,8 +136,6 @@
 [[Take My Hand]]
 
 [[This Keystone Holiday]]
-
-[[The light in your dark]]
 
 [[The Light Wont Reach You]]
 
@@ -160,7 +155,7 @@
 
 ---
 
-#thecasketdiaries 
+#thecasketdiaries
 
 
 

@@ -1,3 +1,8 @@
+---
+date created: Sunday, April 17th 2022, 12:36:35 pm
+date modified: Sunday, April 17th 2022, 9:01:39 pm
+title: I Can't Stay Here
+---
 # I Can't Stay Here
 ## [[Into The Unknown of The Cosmos]]
 ---
@@ -26,11 +31,11 @@ And I don't want to be here, be here. Oh no
 Somewhere deep within me (yea) I hold
 The key to let all of my fears go
 And stop giving them control
-  
+
 I just need to light the way back home
 Even if it means being alone
 I need to be on my own
- 
+
 I can't stay here, stay here
 I'm getting rid of my fears
 The darkness, it won't take me
@@ -58,4 +63,4 @@ Isn’t very far behind
 
 ---
 
-#lyrics #Intotheunknownofthecosmos #thecasketdiaries 
+#lyrics #Intotheunknownofthecosmos #thecasketdiaries

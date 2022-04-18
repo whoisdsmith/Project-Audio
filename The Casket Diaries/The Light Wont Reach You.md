@@ -1,3 +1,8 @@
+---
+date created: Sunday, April 17th 2022, 12:36:36 pm
+date modified: Sunday, April 17th 2022, 9:21:54 pm
+title: The Light Wont Reach You
+---
 # The Light Wont Reach You
 ## [[Into The Unknown of The Cosmos]]
 ---
@@ -9,7 +14,7 @@ but my light won't reach you
 I would have stayed
 And been lost with you
 But you locked me out
-And let the darkness take you``
+And let the darkness take you
 
 I'm sorry that
 I couldn't save you
@@ -18,8 +23,8 @@ but my light won't reach you
 I would have stayed
 And been lost with you
 But you locked me out
-And let the darkness take you``
+And let the darkness take you
 
 ---
 
-#lyrics #Intotheunknownofthecosmos #thecasketdiaries 
+#lyrics #Intotheunknownofthecosmos #thecasketdiaries

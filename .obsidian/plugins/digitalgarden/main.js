@@ -3057,7 +3057,7 @@ __export(exports, {
 });
 var import_obsidian5 = __toModule(require("obsidian"));
 
-// Publisher.ts
+// src/Publisher.ts
 var import_obsidian2 = __toModule(require("obsidian"));
 
 // node_modules/js-base64/base64.mjs
@@ -3955,7 +3955,7 @@ var Octokit = class {
 Octokit.VERSION = VERSION5;
 Octokit.plugins = [];
 
-// utils.ts
+// src/utils.ts
 var import_slugify = __toModule(require_slugify());
 var import_sha1 = __toModule(require_sha1());
 function arrayBufferToBase64(buffer) {
@@ -3984,8 +3984,13 @@ function generateBlobHash(content) {
   const gitBlob = header + content;
   return (0, import_sha1.default)(gitBlob).toString();
 }
+function kebabize(str) {
+  return str.split("").map((letter, idx) => {
+    return letter.toUpperCase() === letter ? `${idx !== 0 ? "-" : ""}${letter.toLowerCase()}` : letter;
+  }).join("");
+}
 
-// Validator.ts
+// src/Validator.ts
 var import_obsidian = __toModule(require("obsidian"));
 function vallidatePublishFrontmatter(frontMatter) {
   if (!frontMatter || !frontMatter["dg-publish"]) {
@@ -3995,7 +4000,7 @@ function vallidatePublishFrontmatter(frontMatter) {
   return true;
 }
 
-// constants.ts
+// src/constants.ts
 var seedling = `<g style="pointer-events:all"><title style="pointer-events: none" opacity="0.33">Layer 1</title><g id="hair" style="pointer-events: none" opacity="0.33"></g><g id="skin" style="pointer-events: none" opacity="0.33"></g><g id="skin-shadow" style="pointer-events: none" opacity="0.33"></g><g id="line"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M47.71119,35.9247" id="svg_3"></path><polyline fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="49.813106536865234,93.05191133916378 49.813106536865234,69.57996462285519 40.03312683105469,26.548054680228233 " id="svg_4"></polyline><line x1="49.81311" x2="59.59309" y1="69.57996" y2="50.02" fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" id="svg_5"></line><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M27.99666,14.21103C35.9517,16.94766 39.92393,26.36911 39.92393,26.36911S30.99696,31.3526 23.04075,28.61655S11.11348,16.45847 11.11348,16.45847S20.04456,11.4789 27.99666,14.21103z" id="svg_6"></path><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M76.46266698455811,45.61669603088379 C84.67706698455811,47.43146603088379 89.6945869845581,56.34024603088379 89.6945869845581,56.34024603088379 S81.3917769845581,62.30603603088379 73.17639698455811,60.492046030883785 S59.94447698455811,49.768496030883796 59.94447698455811,49.768496030883796 S68.2515869845581,43.80622603088379 76.46266698455811,45.61669603088379 z" id="svg_7"></path></g></g>`;
 var excaliDrawBundle = `<style>
 .container {font-family: sans-serif; text-align: center;}
@@ -4006,7 +4011,7 @@ var excaliDrawBundle = `<style>
 </style><script src="https://unpkg.com/react@17/umd/react.production.min.js"><\/script><script src="https://unpkg.com/react-dom@17/umd/react-dom.production.min.js"><\/script><script type="text/javascript" src="https://unpkg.com/@excalidraw/excalidraw/dist/excalidraw.production.min.js"><\/script>`;
 var excalidraw = (excaliDrawJson, drawingId) => `<div id="${drawingId}"></div><script>(function(){const InitialData=${excaliDrawJson};InitialData.scrollToContent=true;App=()=>{const e=React.useRef(null),t=React.useRef(null),[n,i]=React.useState({width:void 0,height:void 0});return React.useEffect(()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height});const e=()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height})};return window.addEventListener("resize",e),()=>window.removeEventListener("resize",e)},[t]),React.createElement(React.Fragment,null,React.createElement("div",{className:"excalidraw-wrapper",ref:t},React.createElement(Excalidraw.default,{ref:e,width:n.width,height:n.height,initialData:InitialData,viewModeEnabled:!0,zenModeEnabled:!0,gridModeEnabled:!1})))},excalidrawWrapper=document.getElementById("${drawingId}");ReactDOM.render(React.createElement(App),excalidrawWrapper);})();<\/script>`;
 
-// Publisher.ts
+// src/Publisher.ts
 var Publisher = class {
   constructor(vault, metadataCache, settings) {
     this.frontmatterRegex = /^\s*?---\n([\s\S]*?)\n---/g;
@@ -4091,6 +4096,9 @@ var Publisher = class {
   }
   generateMarkdown(file) {
     return __async(this, null, function* () {
+      if (file.name.endsWith(".excalidraw.md")) {
+        return yield this.generateExcalidrawMarkdown(file, true);
+      }
       let text = yield this.vault.cachedRead(file);
       text = yield this.convertFrontMatter(text, file.path);
       text = yield this.createTranscludedText(text, file.path);
@@ -4142,45 +4150,73 @@ var Publisher = class {
   }
   convertFrontMatter(text, path) {
     return __async(this, null, function* () {
-      const cachedFrontMatter = this.metadataCache.getCache(path).frontmatter;
-      const frontMatter = __spreadValues({}, cachedFrontMatter);
-      const publishedFrontMatter = { "dg-publish": true };
-      if (frontMatter && frontMatter["dg-permalink"]) {
-        publishedFrontMatter["dg-permalink"] = frontMatter["dg-permalink"];
-        publishedFrontMatter["permalink"] = frontMatter["dg-permalink"];
-        if (!publishedFrontMatter["permalink"].endsWith("/")) {
-          publishedFrontMatter["permalink"] += "/";
-        }
-        if (!publishedFrontMatter["permalink"].startsWith("/")) {
-          publishedFrontMatter["permalink"] = "/" + publishedFrontMatter["permalink"];
-        }
-      } else {
-        const noteUrlPath = generateUrlPath(path);
-        publishedFrontMatter["permalink"] = "/" + noteUrlPath;
-      }
-      if (frontMatter && frontMatter["dg-home"]) {
-        const tags = frontMatter["tags"];
-        if (tags) {
-          if (typeof tags === "string") {
-            publishedFrontMatter["tags"] = [tags, "gardenEntry"];
-          } else {
-            publishedFrontMatter["tags"] = [...tags, "gardenEntry"];
-          }
-        } else {
-          publishedFrontMatter["tags"] = "gardenEntry";
-        }
-      }
-      if (frontMatter && frontMatter["dg-home-link"] === false) {
-        publishedFrontMatter["dgHomeLink"] = false;
-      }
+      const publishedFrontMatter = this.getProcessedFrontMatter(path);
       const replaced = text.replace(this.frontmatterRegex, (match, p1) => {
-        const frontMatterString = JSON.stringify(publishedFrontMatter);
-        return `---
-${frontMatterString}
----`;
+        return publishedFrontMatter;
       });
       return replaced;
     });
+  }
+  getProcessedFrontMatter(filePath) {
+    const fileFrontMatter = __spreadValues({}, this.metadataCache.getCache(filePath).frontmatter);
+    delete fileFrontMatter["position"];
+    let publishedFrontMatter = { "dg-publish": true };
+    publishedFrontMatter = this.addPermalink(fileFrontMatter, publishedFrontMatter, filePath);
+    publishedFrontMatter = this.addHomePageTag(fileFrontMatter, publishedFrontMatter);
+    publishedFrontMatter = this.addFrontMatterSettings(fileFrontMatter, publishedFrontMatter);
+    const fullFrontMatter = (publishedFrontMatter == null ? void 0 : publishedFrontMatter.dgPassFrontmatter) ? __spreadValues(__spreadValues({}, fileFrontMatter), publishedFrontMatter) : publishedFrontMatter;
+    const frontMatterString = JSON.stringify(fullFrontMatter);
+    return `---
+${frontMatterString}
+---
+`;
+  }
+  addPermalink(baseFrontMatter, newFrontMatter, filePath) {
+    let publishedFrontMatter = __spreadValues({}, newFrontMatter);
+    if (baseFrontMatter && baseFrontMatter["dg-permalink"]) {
+      publishedFrontMatter["dg-permalink"] = baseFrontMatter["dg-permalink"];
+      publishedFrontMatter["permalink"] = baseFrontMatter["dg-permalink"];
+      if (!publishedFrontMatter["permalink"].endsWith("/")) {
+        publishedFrontMatter["permalink"] += "/";
+      }
+      if (!publishedFrontMatter["permalink"].startsWith("/")) {
+        publishedFrontMatter["permalink"] = "/" + publishedFrontMatter["permalink"];
+      }
+    } else {
+      const noteUrlPath = generateUrlPath(filePath);
+      publishedFrontMatter["permalink"] = "/" + noteUrlPath;
+    }
+    return publishedFrontMatter;
+  }
+  addHomePageTag(baseFrontMatter, newFrontMatter) {
+    const publishedFrontMatter = __spreadValues({}, newFrontMatter);
+    if (baseFrontMatter && baseFrontMatter["dg-home"]) {
+      const tags = baseFrontMatter["tags"];
+      if (tags) {
+        if (typeof tags === "string") {
+          publishedFrontMatter["tags"] = [tags, "gardenEntry"];
+        } else {
+          publishedFrontMatter["tags"] = [...tags, "gardenEntry"];
+        }
+      } else {
+        publishedFrontMatter["tags"] = "gardenEntry";
+      }
+    }
+    return publishedFrontMatter;
+  }
+  addFrontMatterSettings(baseFrontMatter, newFrontMatter) {
+    if (!baseFrontMatter) {
+      baseFrontMatter = {};
+    }
+    const publishedFrontMatter = __spreadValues({}, newFrontMatter);
+    for (const key of Object.keys(this.settings.defaultNoteSettings)) {
+      if (baseFrontMatter[kebabize(key)] !== void 0) {
+        publishedFrontMatter[key] = baseFrontMatter[kebabize(key)];
+      } else {
+        publishedFrontMatter[key] = this.settings.defaultNoteSettings[key];
+      }
+    }
+    return publishedFrontMatter;
   }
   convertLinksToFullPath(text, filePath) {
     return __async(this, null, function* () {
@@ -4200,11 +4236,15 @@ ${frontMatterString}
             }
             const fullLinkedFilePath = (0, import_obsidian2.getLinkpath)(linkedFileName);
             const linkedFile = this.metadataCache.getFirstLinkpathDest(fullLinkedFilePath, filePath);
-            if (linkedFile.extension === "md") {
+            if (!linkedFile) {
+              convertedText = convertedText.replace(link.original, `[[${linkedFileName}${headerPath}|${prettyName}]]`);
+            }
+            if ((linkedFile == null ? void 0 : linkedFile.extension) === "md") {
               const extensionlessPath = linkedFile.path.substring(0, linkedFile.path.lastIndexOf("."));
               convertedText = convertedText.replace(link.original, `[[${extensionlessPath}${headerPath}|${prettyName}]]`);
             }
           } catch (e) {
+            console.log(e);
             continue;
           }
         }
@@ -4226,16 +4266,8 @@ ${frontMatterString}
             const tranclusionFilePath = (0, import_obsidian2.getLinkpath)(tranclusionFileName);
             const linkedFile = this.metadataCache.getFirstLinkpathDest(tranclusionFilePath, filePath);
             if (linkedFile.name.endsWith(".excalidraw.md")) {
-              let fileText = yield this.vault.cachedRead(linkedFile);
-              const start = fileText.indexOf("```json") + "```json".length;
-              const end = fileText.lastIndexOf("```");
-              const excaliDrawJson = JSON.parse(fileText.slice(start, end));
-              const drawingId = linkedFile.name.split(" ").join("_").replace(".", "") + numberOfExcaliDraws;
-              let excaliDrawCode = "";
-              if (++numberOfExcaliDraws === 1) {
-                excaliDrawCode += excaliDrawBundle;
-              }
-              excaliDrawCode += excalidraw(JSON.stringify(excaliDrawJson), drawingId);
+              let firstDrawing = ++numberOfExcaliDraws === 1;
+              const excaliDrawCode = yield this.generateExcalidrawMarkdown(linkedFile, firstDrawing, `${numberOfExcaliDraws}`);
               transcludedText = transcludedText.replace(transclusionMatch, excaliDrawCode);
             } else if (linkedFile.extension === "md") {
               let fileText = yield this.vault.cachedRead(linkedFile);
@@ -4306,9 +4338,27 @@ ${headerSection}
     }
     return headerName;
   }
+  generateExcalidrawMarkdown(file, includeExcaliDrawJs, idAppendage = "") {
+    return __async(this, null, function* () {
+      if (!file.name.endsWith(".excalidraw.md"))
+        return "";
+      const fileText = yield this.vault.cachedRead(file);
+      const frontMatter = yield this.getProcessedFrontMatter(file.path);
+      const start = fileText.indexOf("```json") + "```json".length;
+      const end = fileText.lastIndexOf("```");
+      const excaliDrawJson = JSON.parse(fileText.slice(start, end));
+      const drawingId = file.name.split(" ").join("_").replace(".", "") + idAppendage;
+      let excaliDrawCode = "";
+      if (includeExcaliDrawJs) {
+        excaliDrawCode += excaliDrawBundle;
+      }
+      excaliDrawCode += excalidraw(JSON.stringify(excaliDrawJson), drawingId);
+      return frontMatter + excaliDrawCode;
+    });
+  }
 };
 
-// DigitalGardenSiteManager.ts
+// src/DigitalGardenSiteManager.ts
 var DigitalGardenSiteManager = class {
   constructor(metadataCache, settings) {
     this.settings = settings;
@@ -4517,7 +4567,7 @@ var DigitalGardenSiteManager = class {
   }
 };
 
-// SettingView.ts
+// src/SettingView.ts
 var import_obsidian3 = __toModule(require("obsidian"));
 var import_axios = __toModule(require_axios2());
 var SettingView = class {
@@ -4537,8 +4587,36 @@ var SettingView = class {
       this.initializeGitHubUserNameSetting();
       this.initializeGitHubTokenSetting();
       this.initializeGitHubBaseURLSetting();
+      this.initializeDefaultNoteSettings();
       this.initializeThemesSettings();
       prModal.titleEl.createEl("h1", "Site template settings");
+    });
+  }
+  initializeDefaultNoteSettings() {
+    return __async(this, null, function* () {
+      const noteSettingsModal = new import_obsidian3.Modal(this.app);
+      noteSettingsModal.titleEl.createEl("h1", { text: "Note Settings" });
+      new import_obsidian3.Setting(this.settingsRootElement).setName("Note Settings").setDesc(`Default settings for each published note. These can be overwritten per note via frontmatter. 
+            Note: After changing any of these settings, you must re-publish notes for it to take effect. They will appear in the "Changed" list in the publication center.`).addButton((cb) => {
+        cb.setButtonText("Edit");
+        cb.onClick(() => __async(this, null, function* () {
+          noteSettingsModal.open();
+        }));
+      });
+      new import_obsidian3.Setting(noteSettingsModal.contentEl).setName("Show home link (dg-home-link)").setDesc("Determines whether to show a link back to the homepage or not.").addToggle((t) => {
+        t.setValue(this.settings.defaultNoteSettings.dgHomeLink);
+        t.onChange((val) => {
+          this.settings.defaultNoteSettings.dgHomeLink = val;
+          this.saveSettings();
+        });
+      });
+      new import_obsidian3.Setting(noteSettingsModal.contentEl).setName("Let all frontmatter through (dg-pass-frontmatter)").setDesc("Determines whether to let all frontmatter data through to the site template. Be aware that this could break your site if you have data in a format not recognized by the template engine, 11ty.").addToggle((t) => {
+        t.setValue(this.settings.defaultNoteSettings.dgPassFrontmatter);
+        t.onChange((val) => {
+          this.settings.defaultNoteSettings.dgPassFrontmatter = val;
+          this.saveSettings();
+        });
+      });
     });
   }
   initializeThemesSettings() {
@@ -4629,7 +4707,7 @@ BASE_THEME=${baseTheme}`;
   }
   addFavicon(octokit) {
     return __async(this, null, function* () {
-      let base64FaviconContent = "";
+      let base64SettingsFaviconContent = "";
       if (this.settings.faviconPath) {
         const faviconFile = this.app.vault.getAbstractFileByPath(this.settings.faviconPath);
         if (!(faviconFile instanceof import_obsidian3.TFile)) {
@@ -4637,35 +4715,39 @@ BASE_THEME=${baseTheme}`;
           return;
         }
         const faviconContent = yield this.app.vault.readBinary(faviconFile);
-        base64FaviconContent = arrayBufferToBase64(faviconContent);
+        base64SettingsFaviconContent = arrayBufferToBase64(faviconContent);
       } else {
         const defaultFavicon = yield octokit.request("GET /repos/{owner}/{repo}/contents/{path}", {
           owner: "oleeskild",
           repo: "digitalgarden",
           path: "src/site/favicon.svg"
         });
-        base64FaviconContent = defaultFavicon.data.content;
+        base64SettingsFaviconContent = defaultFavicon.data.content;
       }
       let faviconExists = true;
-      let currentFavicon = null;
+      let faviconsAreIdentical = false;
+      let currentFaviconOnSite = null;
       try {
-        currentFavicon = yield octokit.request("GET /repos/{owner}/{repo}/contents/{path}", {
+        currentFaviconOnSite = yield octokit.request("GET /repos/{owner}/{repo}/contents/{path}", {
           owner: this.settings.githubUserName,
           repo: this.settings.githubRepo,
           path: "src/site/favicon.svg"
         });
+        faviconsAreIdentical = currentFaviconOnSite.data.content.replaceAll("\n", "").replaceAll(" ", "") === base64SettingsFaviconContent;
       } catch (error) {
         faviconExists = false;
       }
-      yield octokit.request("PUT /repos/{owner}/{repo}/contents/{path}", {
-        owner: this.settings.githubUserName,
-        repo: this.settings.githubRepo,
-        path: "src/site/favicon.svg",
-        message: `Update favicon.svg`,
-        content: base64FaviconContent,
-        sha: faviconExists ? currentFavicon.data.sha : null
-      });
-      new import_obsidian3.Notice(`Successfully set favicon`);
+      if (!faviconExists || !faviconsAreIdentical) {
+        yield octokit.request("PUT /repos/{owner}/{repo}/contents/{path}", {
+          owner: this.settings.githubUserName,
+          repo: this.settings.githubRepo,
+          path: "src/site/favicon.svg",
+          message: `Update favicon.svg`,
+          content: base64SettingsFaviconContent,
+          sha: faviconExists ? currentFaviconOnSite.data.sha : null
+        });
+        new import_obsidian3.Notice(`Successfully set new favicon`);
+      }
     });
   }
   initializeGitHubRepoSetting() {
@@ -4713,7 +4795,7 @@ BASE_THEME=${baseTheme}`;
     new import_obsidian3.Setting(modal.contentEl).setName("Update site to latest template").setDesc(`
 				This will create a pull request with the latest template changes, which you'll need to use all plugin features. 
 				It will not publish any changes before you approve them.
-				You can even test the changes first Netlify will automatically provide you with a test URL.
+				You can even test the changes first as Netlify will automatically provide you with a test URL.
 			`).addButton((button) => button.setButtonText("Create PR").onClick(() => handlePR(button)));
     if (!this.progressViewTop) {
       this.progressViewTop = modal.contentEl.createEl("div", {});
@@ -4782,7 +4864,7 @@ BASE_THEME=${baseTheme}`;
   }
 };
 
-// PublishStatusBar.ts
+// src/PublishStatusBar.ts
 var PublishStatusBar = class {
   constructor(statusBarItem, numberOfNotesToPublish) {
     this.statusBarItem = statusBarItem;
@@ -4805,7 +4887,7 @@ var PublishStatusBar = class {
   }
 };
 
-// PublishModal.ts
+// src/PublishModal.ts
 var import_obsidian4 = __toModule(require("obsidian"));
 var PublishModal = class {
   constructor(app, publishStatusManager, publisher, settings) {
@@ -4939,7 +5021,7 @@ var PublishModal = class {
   }
 };
 
-// PublishStatusManager.ts
+// src/PublishStatusManager.ts
 var PublishStatusManager = class {
   constructor(siteManager, publisher) {
     this.siteManager = siteManager;
@@ -4999,12 +5081,16 @@ var DEFAULT_SETTINGS = {
   prHistory: [],
   theme: "dark",
   baseTheme: '{"name": "default", "modes": ["dark"]}',
-  faviconPath: ""
+  faviconPath: "",
+  defaultNoteSettings: {
+    dgHomeLink: true,
+    dgPassFrontmatter: false
+  }
 };
 var DigitalGarden = class extends import_obsidian5.Plugin {
   onload() {
     return __async(this, null, function* () {
-      this.appVersion = "2.8.5";
+      this.appVersion = "2.9.1";
       console.log("Initializing DigitalGarden plugin v" + this.appVersion);
       yield this.loadSettings();
       this.addSettingTab(new DigitalGardenSettingTab(this.app, this));

@@ -1,3 +1,8 @@
+---
+date created: Sunday, April 17th 2022, 12:36:36 pm
+date modified: Sunday, April 17th 2022, 9:49:24 pm
+title: This Keystone Holiday
+---
 # This Keystone Holiday
 ## [[Endings]]
 
@@ -46,4 +51,4 @@ But that’s ok cause down to hell you will be falling
 
 ---
 
-#lyrics #endings #thecasketdiaries 
+#lyrics #endings #thecasketdiaries

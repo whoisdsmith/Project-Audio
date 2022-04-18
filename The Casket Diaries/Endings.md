@@ -1,3 +1,8 @@
+---
+date created: Sunday, April 17th 2022, 12:36:35 pm
+date modified: Sunday, April 17th 2022, 9:56:22 pm
+title: Endings
+---
 # Endings
 ---
 
@@ -20,12 +25,12 @@ Release date: April 19, 2017
 ---
 
 
- 1. [[Cemetery Weather]] 
+ 1. [[Cemetery Weather]]
  2. [[Let me Down]]
- 3. [[Maybe This Time It’s Forever]] 
+ 3. [[Maybe This Time It’s Forever]]
  4. [[Medicate Me]]
  5. [[Lost In The Airwaves]]
- 6. [[Alive In December]] 
+ 6. [[Alive In December]]
  7. [[Seven]]
  8. [[This Keystone Holiday]]
  9. [[Return To Sender]]
@@ -35,4 +40,4 @@ Release date: April 19, 2017
 ---
 
 
-#endings #thecasketdiaries  #album 
+#endings #thecasketdiaries  #album

@@ -1,3 +1,8 @@
+---
+date created: Sunday, April 17th 2022, 12:36:36 pm
+date modified: Sunday, April 17th 2022, 9:49:44 pm
+title: You'll Float Too-Alternate Version
+---
 # You'll Float Too-Alternate Version
 ## [[Unreleased]]
 
@@ -13,10 +18,10 @@ What's done is done
 All that love is gone
 Made me feel I don't belong
 That I was always wrong
-When you know that we both at fault 
-But I am the wound, you are the salt 
+When you know that we both at fault
+But I am the wound, you are the salt
 
-And I was always in the wrong 
+And I was always in the wrong
 
 Round and round we always go
 Tried so hard to let you go
@@ -24,17 +29,17 @@ Tried so hard to let you go
 I'm a mess and I lose control
 
 The greatest story never known
-But I just want you to know 
+But I just want you to know
 Although broken you were my only home
 Now I don't know where to go
 Don't know how to cope
 Find me in the storm drain below
-Cause down here we all float 
+Cause down here we all float
 how to fucking cope
-When the pain it grabs ahold 
-and my life it starts to choke 
+When the pain it grabs ahold
+and my life it starts to choke
 feel like hanging by a rope
-I should matter but I don't 
+I should matter but I don't
 as it rains I go for a stroll
 And I grab my yellow coat
 And like Georgie I will float
@@ -64,12 +69,12 @@ Just like that paper boat
 The one my brother made
 Right before I met my fate
 
-If you're Pennywise, 
+If you're Pennywise,
 than I must be a ghost
-Legend goes 
+Legend goes
 that down here we all float
-Guess now I know, 
-Tell my brother 
+Guess now I know,
+Tell my brother
 That he gotta let me go
 
 Fucking clown, I hate you now but you already know
@@ -87,4 +92,4 @@ It's his story I rewrote
 
 ---
 
-#lyrics #endings #thecasketdiaries #alternateversion 
+#lyrics #endings #thecasketdiaries #alternateversion

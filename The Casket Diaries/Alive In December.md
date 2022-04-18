@@ -1,10 +1,15 @@
+---
+date created: Sunday, April 17th 2022, 12:36:35 pm
+date modified: Sunday, April 17th 2022, 9:26:20 pm
+title: Alive In December
+---
 # Alive In December
 ## [[Endings]]
 
 ---
 
 Alive in December
-It's been 3 years 
+It's been 3 years
 And I'm alive in December
 
 Oh she hit me with a text
@@ -18,7 +23,7 @@ You left me dead back in November
 Hole in my chest don't you remember
 I tried to put myself back together
 
-It's been 3 years 
+It's been 3 years
 and I'm alive in December
 
 ---

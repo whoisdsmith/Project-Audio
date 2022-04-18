@@ -1,3 +1,8 @@
+---
+date created: Sunday, April 17th 2022, 12:36:35 pm
+date modified: Sunday, April 17th 2022, 9:25:08 pm
+title: Entry III
+---
 # Entry III
 ## [[Gravedigger Album]]
 ---
@@ -6,4 +11,4 @@ I am terrified a great deal of the time. Afraid of what Iâ€™ve done, of what Iâ€
 
 ---
 
-#lyrics #Gravedigger #thecasketdiaries 
+#lyrics #Gravedigger #thecasketdiaries

@@ -1,3 +1,8 @@
+---
+date created: Sunday, April 17th 2022, 12:36:35 pm
+date modified: Sunday, April 17th 2022, 9:46:16 pm
+title: Official Releases
+---
 # Official Releases
 ## Endings
 
@@ -16,27 +21,27 @@ Release date: August 20, 2017
 
 ### Tracklist
 
- 1. Cemetery Weather 
+ 1. Cemetery Weather
 		`ISRC: QZK6F2127525`
  2. Let me Down
 		`ISRC: QZK6F2127526`
-3. Maybe This Time It’s Forever 
+3. Maybe This Time It’s Forever
 		 `ISRC: QZK6F2127527`
- 4. Medicate Me 
+ 4. Medicate Me
 		 `ISRC: QZK6F2127528`
- 5. Lost In The Airwaves  
+ 5. Lost In The Airwaves
 		`ISRC: QZK6F2127529`
- 6. Alive In December 
+ 6. Alive In December
 		`ISRC: QZK6F2127530`
  8. Seven
 		`ISRC: QZK6F2127531`
- 8. This Keystone Holiday 
+ 8. This Keystone Holiday
 		`ISRC: QZK6F2127532`
- 9. Return To Sender 
+ 9. Return To Sender
 		`ISRC: QZK6F2127533`
-10. You'll Float Too 
+10. You'll Float Too
 		`ISRC: QZK6F2127534`
-11. Ending  
+11. Ending
 		`ISRC: QZK6F2127535`
 
 
@@ -88,7 +93,7 @@ Release date: February 4, 2022
 
 ---
 
-  #Intotheunknownofthecosmos #album #thecasketdiaries 
+  #Intotheunknownofthecosmos #album #thecasketdiaries
 
 
 ---
@@ -97,7 +102,7 @@ Release date: February 4, 2022
 
 ---
 
-### Tyler Wayne Long is a Bitch
+## Tyler Wayne Long is a Bitch
 
 ![[Photos/Singles Covers/Tyler Wayne Long is a Bitch.JPG]]
 
@@ -110,7 +115,7 @@ Release date: February 4, 2022
 
 ---
 
-#### Life On Repeat
+### Life On Repeat
 
 ![[Photos/Singles Covers/Life on repeat cover.jpeg]]
 
@@ -122,4 +127,4 @@ Release date: January 21, 2022
 
 ---
 
-#thecasketdiaries #album 
+#thecasketdiaries #album

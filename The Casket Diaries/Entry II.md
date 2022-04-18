@@ -1,3 +1,8 @@
+---
+date created: Sunday, April 17th 2022, 12:36:35 pm
+date modified: Sunday, April 17th 2022, 9:25:19 pm
+title: Entry II
+---
 # Entry II
 ## [[Gravedigger Album]]
 ---
@@ -6,4 +11,4 @@ There’s an old saying, That which doesn’t kill you makes you stronger. I don
 
 ---
 
-#lyrics #Gravedigger #thecasketdiaries 
+#lyrics #Gravedigger #thecasketdiaries

@@ -1,3 +1,8 @@
+---
+date created: Sunday, April 17th 2022, 12:36:35 pm
+date modified: Sunday, April 17th 2022, 9:25:01 pm
+title: Entry IV
+---
 # Entry IV
 ## [[Gravedigger Album]]
 ---
@@ -6,4 +11,4 @@ When we take action to avenge the ones we love, personal justice collides with s
 
 ---
 
-#lyrics #Gravedigger #thecasketdiaries 
+#lyrics #Gravedigger #thecasketdiaries
