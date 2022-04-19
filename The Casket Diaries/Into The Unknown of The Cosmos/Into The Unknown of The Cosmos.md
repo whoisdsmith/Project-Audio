@@ -1,8 +1,7 @@
 ---
 date created: Sunday, April 17th 2022, 12:36:35 pm
-date modified: Monday, April 18th 2022, 2:10:53 pm
+date modified: Monday, April 18th 2022, 10:40:53 pm
 title: Into The Unknown of The Cosmos
-"title": Into The Unknown of The Cosmos
 ---
 # Into The Unknown of The Cosmos
 

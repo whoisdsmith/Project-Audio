@@ -1,8 +1,7 @@
 ---
 date created: Sunday, April 17th 2022, 12:36:36 pm
-date modified: Monday, April 18th 2022, 2:10:53 pm
+date modified: Monday, April 18th 2022, 10:40:34 pm
 title: Take My Hand
-"title": Take My Hand
 ---
 # Take My Hand
 ## [[Into The Unknown of The Cosmos]]

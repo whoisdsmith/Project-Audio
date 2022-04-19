@@ -1,7 +1,7 @@
 ---
 date created: Monday, April 18th 2022, 1:33:14 pm
-date modified: Monday, April 18th 2022, 2:10:53 pm
-title: "Apple Music URI Cosmos"
+date modified: Monday, April 18th 2022, 2:21:36 pm
+title: Apple Music URI Cosmos
 ---
 # Apple Music URI Cosmos
 Into The Unknown of The Cosmos

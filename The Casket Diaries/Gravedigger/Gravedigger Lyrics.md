@@ -1,8 +1,7 @@
 ---
 date created: Sunday, April 17th 2022, 4:40:26 pm
-date modified: Monday, April 18th 2022, 2:10:53 pm
+date modified: Monday, April 18th 2022, 10:41:55 pm
 title: Gravedigger Lyrics
-"title": Gravedigger Lyrics
 ---
 # Gravedigger Lyrics
 ---

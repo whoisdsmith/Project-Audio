@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chapter II - Gravedigger.md",
-            "mode": "source",
+            "file": "project_audio.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter II - Gravedigger.md",
+                "file": "project_audio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +104,15 @@
   },
   "active": "2633b18b9692f85f",
   "lastOpenFiles": [
-    "Chapter II - Gravedigger.md",
-    "The Casket Diaries.md",
-    "The Casket Diaries/Backstabber.md",
-    "The Casket Diaries/Alive In December.md",
-    "The Casket Diaries/A Fire Inside.md",
-    "The Casket Diaries/Apple Music URI Endings.md",
-    "The Casket Diaries/Spotify URIs.md",
-    "The Casket Diaries/Official_Release.md",
-    "The Casket Diaries/Endings.md",
-    "project_audio.md"
+    "project_audio.md",
+    "Photos /BG/Dark-Red-heartBG.JPG",
+    "The Casket Diaries/Endings/Alive In December.md",
+    "The Casket Diaries/Endings/Cemetery Weather.md",
+    "The Casket Diaries/Endings/Ending.md",
+    "The Casket Diaries/Endings/Endings.md",
+    "The Casket Diaries/Endings/Endings Lyrics.md",
+    "The Casket Diaries/Endings/Let me Down.md",
+    "The Casket Diaries/Endings/Maybe This Time It’s Forever.md",
+    "The Casket Diaries/Endings/Lost In The Airwaves.md"
   ]
 }

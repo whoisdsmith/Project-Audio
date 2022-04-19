@@ -1,8 +1,7 @@
 ---
 date created: Sunday, April 17th 2022, 4:47:41 pm
-date modified: Monday, April 18th 2022, 2:10:53 pm
+date modified: Monday, April 18th 2022, 10:40:21 pm
 title: Paradox Lyrics
-"title": Paradox Lyrics
 ---
 # Paradox Lyrics
 

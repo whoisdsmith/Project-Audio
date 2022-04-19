@@ -1,8 +1,7 @@
 ---
 date created: Sunday, April 17th 2022, 12:36:36 pm
-date modified: Monday, April 18th 2022, 2:10:53 pm
+date modified: Monday, April 18th 2022, 10:43:01 pm
 title: This Keystone Holiday
-"title": This Keystone Holiday
 ---
 # This Keystone Holiday
 ## [[Endings]]

@@ -1,8 +1,7 @@
 ---
 date created: Sunday, April 17th 2022, 12:36:35 pm
-date modified: Monday, April 18th 2022, 2:10:53 pm
+date modified: Monday, April 18th 2022, 10:40:02 pm
 title: Life on Repeat
-"title": Life on Repeat
 ---
 # Life on Repeat
 ## [[Singles]]
