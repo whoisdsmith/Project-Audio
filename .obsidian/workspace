@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "project_audio.md",
-            "mode": "source",
+            "file": "The Casket Diaries/Apple Music URI Endings.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project_audio.md",
+                "file": "The Casket Diaries/Apple Music URI Endings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,13 +104,15 @@
   },
   "active": "00896dcdd0072d98",
   "lastOpenFiles": [
+    "The Casket Diaries/Apple Music URI Endings.md",
+    "The Casket Diaries/Spotify URIs.md",
+    "The Casket Diaries/Official_Release.md",
+    "The Casket Diaries/Endings.md",
     "project_audio.md",
     "The Casket Diaries/The Casket Diaries.md",
     "Photos/Logos Banners/Endings Banner.JPG",
     "Photos/Logos Banners/Music Background.jpeg",
     "Photos/Logos Banners/Reaper icon.PNG",
-    "Photos/Logos Banners/tcd.png",
-    "Photos/Logos Banners/The-Casket-Diaries-Logo.jpeg",
-    "content/The Casket Diaries /The Casket Diaries.md"
+    "Photos/Logos Banners/tcd.png"
   ]
 }
