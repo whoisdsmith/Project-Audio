@@ -1,0 +1,53 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showStarredFiles": false,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "The Casket Diaries/Grim/The Takeover.md",
+      "timestamp": 1696280693938
+    },
+    {
+      "filepath": "The Casket Diaries/Grim/The Greatest.md",
+      "timestamp": 1696280691755
+    },
+    {
+      "filepath": "The Casket Diaries/Grim/Premeditated.md",
+      "timestamp": 1696280688131
+    },
+    {
+      "filepath": "The Casket Diaries/Grim/Lifetaker.md",
+      "timestamp": 1696280680674
+    },
+    {
+      "filepath": "The Casket Diaries/Grim/Know Your Place.md",
+      "timestamp": 1696280679625
+    }
+  ],
+  "starredFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false
+}

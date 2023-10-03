@@ -1,0 +1,62 @@
+{
+  "version": 3,
+  "avatarVisible": true,
+  "vaultVisible": true,
+  "clockVisible": true,
+  "rxSeparatorVisible": true,
+  "otcSeparatorVisible": true,
+  "recentsCount": 10,
+  "postLogAction": "quietly",
+  "tagGroups": [],
+  "loggingPath": "",
+  "avatarPath": "Project Database/Project-Audio/The Casket Diaries/Photos/The Casket Diaries Album Covers/Singles Covers/tcdheartmoji.png",
+  "rxGroups": [
+    {
+      "groupName": "dailies",
+      "collapsedFolders": [],
+      "isVisible": true,
+      "sortMethod": "alphabetical",
+      "sortAscending": true,
+      "logsFolderVisible": true,
+      "templatesFolderVisible": false,
+      "excludedFolders": []
+    },
+    {
+      "groupName": "files",
+      "collapsedFolders": [
+        "/"
+      ],
+      "isVisible": true,
+      "sortMethod": "type",
+      "sortAscending": true,
+      "logsFolderVisible": true,
+      "templatesFolderVisible": true,
+      "excludedFolders": []
+    },
+    {
+      "groupName": "recents",
+      "collapsedFolders": [
+        "/"
+      ],
+      "isVisible": true,
+      "sortMethod": "alphabetical",
+      "sortAscending": true,
+      "logsFolderVisible": true,
+      "templatesFolderVisible": true,
+      "excludedFolders": []
+    },
+    {
+      "groupName": "untagged",
+      "collapsedFolders": [
+        "/"
+      ],
+      "isVisible": true,
+      "sortMethod": "alphabetical",
+      "sortAscending": true,
+      "logsFolderVisible": false,
+      "templatesFolderVisible": false,
+      "excludedFolders": []
+    }
+  ],
+  "dailiesTag": "daily"
+}

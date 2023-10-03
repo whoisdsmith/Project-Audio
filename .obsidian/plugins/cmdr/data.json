@@ -1,0 +1,163 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [
+    {
+      "id": "editor:fold-all",
+      "icon": "lucide-minimize-2",
+      "name": "Fold all headings and lists",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-heading-shifter:decrease-heading",
+      "icon": "headingShifter_decreaseIcon",
+      "name": "Heading Shifter: Decrease Headings",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-sort-and-permute-lines:sort-headings",
+      "icon": "activity",
+      "name": "Sort & Permute lines: Sort headings",
+      "mode": "any"
+    },
+    {
+      "id": "editor:unfold-all",
+      "icon": "lucide-maximize-2",
+      "name": "Unfold all headings and lists",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-related-notes-finder:show-possible-links",
+      "icon": "unlink-2",
+      "name": "Related Notes Finder: Show Possible Links",
+      "mode": "any"
+    },
+    {
+      "id": "safe-filename-linter:lint-all-filenames",
+      "icon": "activity",
+      "name": "Safe Filename Linter: Lint all filenames in the vault",
+      "mode": "any"
+    },
+    {
+      "id": "plugin-manager:toggle-multi-tag",
+      "icon": "activity",
+      "name": "Plugin Manager: toggle Multi Tag",
+      "mode": "any"
+    },
+    {
+      "id": "wikilinks-to-mdlinks-obsidian:toggle-wiki-md-links",
+      "icon": "activity",
+      "name": "Wikilinks to MDLinks: Toggle selected wikilink to markdown link and vice versa",
+      "mode": "any"
+    },
+    {
+      "id": "plugin-manager:toggle-auto-glossary",
+      "icon": "activity",
+      "name": "Plugin Manager: toggle Auto Glossary",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-filename-heading-sync:sync-heading-to-filename",
+      "icon": "activity",
+      "name": "Filename Heading Sync: Sync Heading to Filename",
+      "mode": "any"
+    },
+    {
+      "id": "plugin-manager:toggle-obsidian-folder-index",
+      "icon": "activity",
+      "name": "Plugin Manager: toggle Folder Index",
+      "mode": "any"
+    },
+    {
+      "id": "flowershow:publish-note",
+      "icon": "activity",
+      "name": "Flowershow: Publish single note",
+      "mode": "any"
+    },
+    {
+      "id": "file-diff:compare",
+      "icon": "activity",
+      "name": "File Diff: Compare",
+      "mode": "any"
+    }
+  ],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "editor:fold-all",
+      "icon": "lucide-minimize-2",
+      "name": "Fold all headings and lists",
+      "mode": "any"
+    },
+    {
+      "id": "note-refactor-obsidian:app:split-note-by-heading-h2",
+      "icon": "thumbs-down",
+      "name": "Note Refactor: Split note by headings - H2",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-heading-shifter:increase-heading",
+      "icon": "headingShifter_increaseIcon",
+      "name": "Heading Shifter: Increase Headings",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-sort-and-permute-lines:sort-headings",
+      "icon": "signal-high",
+      "name": "Sort & Permute lines: Sort headings",
+      "mode": "any"
+    },
+    {
+      "id": "note-refactor-obsidian:app:split-note-by-heading-h3",
+      "icon": "dice-3",
+      "name": "Note Refactor: Split note by headings - H3",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-sort-and-permute-lines:sort-alphabetically",
+      "icon": "align-justify",
+      "name": "Sort & Permute lines: Sort alphabetically",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-filename-heading-sync:sync-heading-to-filename",
+      "icon": "alert-triangle",
+      "name": "Filename Heading Sync: Sync Heading to Filename",
+      "mode": "any"
+    },
+    {
+      "id": "note-refactor-obsidian:app:split-note-by-heading-h1",
+      "icon": "alarm-plus",
+      "name": "Note Refactor: Split note by headings - H1",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-regex-replace:obsidian-regex-replace",
+      "icon": "activity",
+      "name": "Regex Find/Replace: Find and Replace using regular expressions",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

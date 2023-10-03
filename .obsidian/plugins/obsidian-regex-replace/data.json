@@ -1,0 +1,10 @@
+{
+  "findText": "##notag",
+  "replaceText": "#notag",
+  "useRegEx": false,
+  "selOnly": false,
+  "caseInsensitive": false,
+  "processLineBreak": false,
+  "processTab": false,
+  "prefillFind": false
+}

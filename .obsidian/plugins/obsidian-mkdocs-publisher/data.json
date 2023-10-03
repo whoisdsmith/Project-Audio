@@ -1,0 +1,80 @@
+{
+  "github": {
+    "user": "whoisdsmith",
+    "repo": "projectdb",
+    "branch": "main",
+    "automaticallyMergePR": true,
+    "tokenPath": "%configDir%/plugins/%pluginID%/env",
+    "api": {
+      "tiersForApi": "Github Free/Pro/Team (default)",
+      "hostname": ""
+    },
+    "workflow": {
+      "commitMessage": "[PUBLISHER] Merge",
+      "name": ""
+    },
+    "otherRepo": [],
+    "verifiedRepo": true,
+    "rateLimit": 4997
+  },
+  "upload": {
+    "behavior": "obsidian",
+    "defaultName": "",
+    "rootFolder": "",
+    "yamlFolderKey": "",
+    "frontmatterTitle": {
+      "enable": false,
+      "key": "title"
+    },
+    "replaceTitle": [],
+    "replacePath": [],
+    "autoclean": {
+      "enable": false,
+      "excluded": []
+    },
+    "folderNote": {
+      "enable": false,
+      "rename": "index.md"
+    },
+    "metadataExtractorPath": ""
+  },
+  "conversion": {
+    "hardbreak": false,
+    "dataview": true,
+    "censorText": [],
+    "tags": {
+      "inline": true,
+      "exclude": [],
+      "fields": []
+    },
+    "links": {
+      "internal": false,
+      "unshared": false,
+      "wiki": true,
+      "slugify": false
+    }
+  },
+  "embed": {
+    "attachments": true,
+    "keySendFile": [],
+    "notes": false,
+    "folder": "Attachments",
+    "convertEmbedToLinks": "keep",
+    "charConvert": "->"
+  },
+  "plugin": {
+    "shareKey": "share",
+    "fileMenu": true,
+    "editorMenu": true,
+    "excludedFolder": [],
+    "copyLink": {
+      "enable": false,
+      "links": "",
+      "removePart": [],
+      "addCmd": false
+    },
+    "noticeError": false,
+    "displayModalRepoEditing": false,
+    "migrated": true
+  }
+}

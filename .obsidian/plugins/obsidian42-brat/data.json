@@ -1,0 +1,18 @@
+{
+  "pluginList": [
+    "ennioitaliano/obsidian-auto-glossary",
+    "CtrlAltFocus/obsidian-plugin-auto-tag",
+    "johansatge/obsidian-automatic-table-of-contents",
+    "fnya/media-sync"
+  ],
+  "pluginSubListFrozenVersion": [],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "ribbonIconEnabled": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": true,
+  "notificationsEnabled": true
+}

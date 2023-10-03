@@ -1,0 +1,13 @@
+{
+  "folderName": "Project Database/Project-Audio",
+  "fileNames": [],
+  "existingSymbol": "",
+  "replacePattern": "",
+  "regExpState": {
+    "regExp": ".\\s",
+    "flags": [],
+    "withRegExpForReplaceSymbols": false
+  },
+  "tags": [],
+  "viewType": "regexp"
+}

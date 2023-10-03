@@ -1,8 +1,0 @@
-{
-  "apiType": "xml-rpc",
-  "endpoint": "https://ctrlaltback.space/project-audio",
-  "saveUserName": true,
-  "showRibbonIcon": true,
-  "defaultPostStatus": "draft",
-  "userName": "Whoisdsmith@gmail.com"
-}

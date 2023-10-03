@@ -1,3 +1,7 @@
 {
-  "baseFontSize": 16
+  "accentColor": "",
+  "cssTheme": "Maple",
+  "nativeMenus": true,
+  "translucency": false,
+  "theme": "obsidian"
 }

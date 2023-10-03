@@ -3691,11 +3691,6 @@ var Controller = class extends obsidian.Component {
           this.reset();
         }
       });
-      this.registerDomEvent(inputEl, "click", () => {
-        if (!this.modeScope.inSearchMode) {
-          this.enter();
-        }
-      });
       this.registerDomEvent(inputEl, "input", () => {
         if (!this.modeScope.inSearchMode) {
           this.enter();
@@ -3793,7 +3788,8 @@ var Controller = class extends obsidian.Component {
         new import_obsidian14.Notice("Copy wiki link!");
       });
     });
-    scope.register([], "Escape", () => {
+    scope.register([], "Escape", (evt) => {
+      evt.preventDefault();
       this.exit();
     });
     scope.register([], "Enter", (evt) => {
@@ -3966,8 +3962,7 @@ function isSearchView(view) {
     setMatchingCase,
     setSortOrder,
     searchInfoEl,
-    searchComponent,
-    headerDom
+    searchComponent
   } = view;
   if (typeof matchingCase !== "boolean") {
     return false;
@@ -3985,9 +3980,6 @@ function isSearchView(view) {
     return false;
   }
   if (!(searchInfoEl instanceof HTMLDivElement)) {
-    return false;
-  }
-  if (!isSearchHeaderDom(headerDom)) {
     return false;
   }
   if (!(setCollapseAll instanceof Function)) {
@@ -4014,7 +4006,7 @@ function isSearchDom(obj) {
   if (obj === null) {
     return false;
   }
-  const { extraContext, collapseAll, sortOrder, children: children2, childrenEl } = obj;
+  const { extraContext, collapseAll, sortOrder, vChildren, childrenEl } = obj;
   if (typeof extraContext !== "boolean") {
     return false;
   }
@@ -4027,6 +4019,22 @@ function isSearchDom(obj) {
   if (!SORT_ORDER_IN_SEARCH.includes(sortOrder)) {
     return false;
   }
+  if (!isSearchResultItemGroup(vChildren)) {
+    return false;
+  }
+  if (typeof childrenEl !== "object") {
+    return false;
+  }
+  if (!(childrenEl instanceof HTMLElement)) {
+    return false;
+  }
+  return true;
+}
+function isSearchResultItemGroup(obj) {
+  if (typeof obj !== "object" || obj === null) {
+    return false;
+  }
+  const { _children: children2 } = obj;
   if (typeof children2 !== "object") {
     return false;
   }
@@ -4037,12 +4045,6 @@ function isSearchDom(obj) {
     if (!isSearchResultItem(child)) {
       return false;
     }
-  }
-  if (typeof childrenEl !== "object") {
-    return false;
-  }
-  if (!(childrenEl instanceof HTMLElement)) {
-    return false;
   }
   return true;
 }
@@ -4055,19 +4057,6 @@ function isSearchResultItem(obj) {
     return false;
   }
   if (!(containerEl instanceof HTMLElement)) {
-    return false;
-  }
-  return true;
-}
-function isSearchHeaderDom(obj) {
-  if (typeof obj !== "object" || obj === null) {
-    return false;
-  }
-  const { navButtonsEl } = obj;
-  if (typeof navButtonsEl !== "object") {
-    return false;
-  }
-  if (!(navButtonsEl instanceof HTMLDivElement)) {
     return false;
   }
   return true;
@@ -4258,7 +4247,7 @@ var SearchComponentInterface = class extends import_obsidian16.Component {
   }
   count() {
     var _a;
-    const results = (_a = this.searchView) == null ? void 0 : _a.dom.children;
+    const results = (_a = this.searchView) == null ? void 0 : _a.dom.vChildren._children;
     if (!results) {
       return 0;
     }
@@ -4266,11 +4255,11 @@ var SearchComponentInterface = class extends import_obsidian16.Component {
   }
   get resultItems() {
     var _a, _b;
-    return (_b = (_a = this.searchView) == null ? void 0 : _a.dom.children) != null ? _b : [];
+    return (_b = (_a = this.searchView) == null ? void 0 : _a.dom.vChildren._children) != null ? _b : [];
   }
   getResultItemAt(pos) {
     var _a;
-    return (_a = this.searchView) == null ? void 0 : _a.dom.children[pos];
+    return (_a = this.searchView) == null ? void 0 : _a.dom.vChildren._children[pos];
   }
   get searchInputEl() {
     var _a;

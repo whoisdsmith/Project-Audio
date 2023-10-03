@@ -1,0 +1,379 @@
+{
+  "pluginArr": {
+    "at-symbol-linking": {
+      "id": "at-symbol-linking",
+      "delay": 0,
+      "enabled": false
+    },
+    "advanced-merger": {
+      "id": "advanced-merger",
+      "delay": 0,
+      "enabled": true
+    },
+    "obsidian-apply-patterns": {
+      "id": "obsidian-apply-patterns",
+      "delay": 0,
+      "enabled": true
+    },
+    "better-search-views": {
+      "id": "better-search-views",
+      "delay": 0,
+      "enabled": true
+    },
+    "bulk-exporter": {
+      "id": "bulk-exporter",
+      "delay": 0,
+      "enabled": true
+    },
+    "codename": {
+      "id": "codename",
+      "delay": 0,
+      "enabled": true
+    },
+    "cmdr": {
+      "id": "cmdr",
+      "delay": 0,
+      "enabled": true
+    },
+    "obsidian-core-search-assistant-plugin": {
+      "id": "obsidian-core-search-assistant-plugin",
+      "delay": 0,
+      "enabled": true
+    },
+    "crossbow": {
+      "id": "crossbow",
+      "delay": 0,
+      "enabled": true
+    },
+    "easy-bake": {
+      "id": "easy-bake",
+      "delay": 0,
+      "enabled": true
+    },
+    "obsidian-excel-to-markdown-table": {
+      "id": "obsidian-excel-to-markdown-table",
+      "delay": 0,
+      "enabled": true
+    },
+    "find-and-replace-in-selection": {
+      "id": "find-and-replace-in-selection",
+      "delay": 0,
+      "enabled": true
+    },
+    "global-search-and-replace": {
+      "id": "global-search-and-replace",
+      "delay": 0,
+      "enabled": true
+    },
+    "obsidian-heading-shifter": {
+      "id": "obsidian-heading-shifter",
+      "delay": 0,
+      "enabled": true
+    },
+    "obsidian-html-plugin": {
+      "id": "obsidian-html-plugin",
+      "delay": 0,
+      "enabled": true
+    },
+    "obsidian-importer": {
+      "id": "obsidian-importer",
+      "delay": 0,
+      "enabled": true
+    },
+    "links": {
+      "id": "links",
+      "delay": 0,
+      "enabled": true
+    },
+    "obsidian-linter": {
+      "id": "obsidian-linter",
+      "delay": 0,
+      "enabled": true
+    },
+    "markdown-table-editor": {
+      "id": "markdown-table-editor",
+      "delay": 0,
+      "enabled": true
+    },
+    "multi-tag": {
+      "id": "multi-tag",
+      "delay": 0,
+      "enabled": false
+    },
+    "obisidian-note-linker": {
+      "id": "obisidian-note-linker",
+      "delay": 0,
+      "enabled": true
+    },
+    "note-refactor-obsidian": {
+      "id": "note-refactor-obsidian",
+      "delay": 0,
+      "enabled": true
+    },
+    "obsidian-markdown-export-plugin": {
+      "id": "obsidian-markdown-export-plugin",
+      "delay": 0,
+      "enabled": true
+    },
+    "plugin-manager": {
+      "id": "plugin-manager",
+      "delay": 0,
+      "enabled": true
+    },
+    "obsidian-plugin-update-tracker": {
+      "id": "obsidian-plugin-update-tracker",
+      "delay": 0,
+      "enabled": true
+    },
+    "red-pen": {
+      "id": "red-pen",
+      "delay": 0,
+      "enabled": false
+    },
+    "obsidian-regex-replace": {
+      "id": "obsidian-regex-replace",
+      "delay": 0,
+      "enabled": true
+    },
+    "obsidian-regex-pipeline": {
+      "id": "obsidian-regex-pipeline",
+      "delay": 0,
+      "enabled": true
+    },
+    "obsidian-related-notes-finder": {
+      "id": "obsidian-related-notes-finder",
+      "delay": 0,
+      "enabled": false
+    },
+    "obsidian-relation-pane": {
+      "id": "obsidian-relation-pane",
+      "delay": 0,
+      "enabled": true
+    },
+    "safe-filename-linter": {
+      "id": "safe-filename-linter",
+      "delay": 0,
+      "enabled": true
+    },
+    "obsidian-search-everywhere-plugin": {
+      "id": "obsidian-search-everywhere-plugin",
+      "delay": 0,
+      "enabled": true
+    },
+    "searchpp": {
+      "id": "searchpp",
+      "delay": 0,
+      "enabled": true
+    },
+    "settings-search": {
+      "id": "settings-search",
+      "delay": 0,
+      "enabled": true
+    },
+    "obsidian-sort-and-permute-lines": {
+      "id": "obsidian-sort-and-permute-lines",
+      "delay": 0,
+      "enabled": true
+    },
+    "obsidian-style-settings": {
+      "id": "obsidian-style-settings",
+      "delay": 0,
+      "enabled": true
+    },
+    "surfing": {
+      "id": "surfing",
+      "delay": 0,
+      "enabled": true
+    },
+    "obsidian-plugin-toc": {
+      "id": "obsidian-plugin-toc",
+      "delay": 0,
+      "enabled": true
+    },
+    "tag-search": {
+      "id": "tag-search",
+      "delay": 0,
+      "enabled": true
+    },
+    "tag-wrangler": {
+      "id": "tag-wrangler",
+      "delay": 0,
+      "enabled": true
+    },
+    "tag-many": {
+      "id": "tag-many",
+      "delay": 0,
+      "enabled": true
+    },
+    "theme-picker": {
+      "id": "theme-picker",
+      "delay": 0,
+      "enabled": true
+    },
+    "update-relative-links": {
+      "id": "update-relative-links",
+      "delay": 0,
+      "enabled": true
+    },
+    "obsidian-vault-statistics-plugin": {
+      "id": "obsidian-vault-statistics-plugin",
+      "delay": 0,
+      "enabled": true
+    },
+    "webpage-html-export": {
+      "id": "webpage-html-export",
+      "delay": 0,
+      "enabled": true
+    },
+    "notion-like-tables": {
+      "id": "notion-like-tables",
+      "delay": 0,
+      "enabled": false
+    },
+    "dataview": {
+      "id": "dataview",
+      "delay": 0,
+      "enabled": true
+    },
+    "editing-toolbar": {
+      "id": "editing-toolbar",
+      "delay": 0,
+      "enabled": false
+    },
+    "find-unlinked-files": {
+      "id": "find-unlinked-files",
+      "delay": 0,
+      "enabled": true
+    },
+    "obsidian-enhancing-export": {
+      "id": "obsidian-enhancing-export",
+      "delay": 0,
+      "enabled": false
+    },
+    "obsidian42-brat": {
+      "id": "obsidian42-brat",
+      "delay": 0,
+      "enabled": true
+    },
+    "obsidian-pandoc": {
+      "id": "obsidian-pandoc",
+      "delay": 0,
+      "enabled": false
+    },
+    "auto-glossary": {
+      "id": "auto-glossary",
+      "delay": 0,
+      "enabled": false
+    },
+    "obsidian-folder-index": {
+      "id": "obsidian-folder-index",
+      "delay": 0,
+      "enabled": false
+    },
+    "google-photos": {
+      "id": "google-photos",
+      "delay": 0,
+      "enabled": true
+    },
+    "index-checker": {
+      "id": "index-checker",
+      "delay": 0,
+      "enabled": true
+    },
+    "markdown-link-space-encoder": {
+      "id": "markdown-link-space-encoder",
+      "delay": 0,
+      "enabled": true
+    },
+    "o2": {
+      "id": "o2",
+      "delay": 0,
+      "enabled": true
+    },
+    "obsidian-link-converter": {
+      "id": "obsidian-link-converter",
+      "delay": 0,
+      "enabled": true
+    },
+    "persistent-links": {
+      "id": "persistent-links",
+      "delay": 0,
+      "enabled": true
+    },
+    "wikilinks-to-mdlinks-obsidian": {
+      "id": "wikilinks-to-mdlinks-obsidian",
+      "delay": 0,
+      "enabled": true
+    },
+    "aprils-automatic-timelines": {
+      "id": "aprils-automatic-timelines",
+      "delay": 0,
+      "enabled": false
+    },
+    "auto-front-matter": {
+      "id": "auto-front-matter",
+      "delay": 0,
+      "enabled": false
+    },
+    "auto-tag": {
+      "id": "auto-tag",
+      "delay": 0,
+      "enabled": false
+    },
+    "automatic-table-of-contents": {
+      "id": "automatic-table-of-contents",
+      "delay": 0,
+      "enabled": false
+    },
+    "obsidian-bulk-rename-plugin": {
+      "id": "obsidian-bulk-rename-plugin",
+      "delay": 0,
+      "enabled": false
+    },
+    "obsidian-filename-heading-sync": {
+      "id": "obsidian-filename-heading-sync",
+      "delay": 0,
+      "enabled": false
+    },
+    "media-sync": {
+      "id": "media-sync",
+      "delay": 0,
+      "enabled": false
+    },
+    "oblogger": {
+      "id": "oblogger",
+      "delay": 0,
+      "enabled": false
+    },
+    "obsidian-scroll-to-top-plugin": {
+      "id": "obsidian-scroll-to-top-plugin",
+      "delay": 0,
+      "enabled": false
+    },
+    "smart-rename": {
+      "id": "smart-rename",
+      "delay": 0,
+      "enabled": false
+    },
+    "obsidian-sortable": {
+      "id": "obsidian-sortable",
+      "delay": 0,
+      "enabled": false
+    },
+    "obsidian-timeline": {
+      "id": "obsidian-timeline",
+      "delay": 0,
+      "enabled": false
+    },
+    "url-display": {
+      "id": "url-display",
+      "delay": 0,
+      "enabled": false
+    },
+    "vault-2-book": {
+      "id": "vault-2-book",
+      "delay": 0,
+      "enabled": false
+    }
+  }
+}

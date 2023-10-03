@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "00b685d24c092a5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "42dc590a7a8d257e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8064a1ee744c50a4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d9c8c66392c1a05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Database/ProDB/YouTube/2017.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a46b32295518cf83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Database/App.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d4163e0d6bf0d71b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Database/Project Database.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "66768d146ee8a07a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Database/App.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "428ca6b5b1d06268",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7261c46e98440fc2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c07572585a017aca",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2d2a2dfe840f0118",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "e4cbdab6ff406334",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4b279eda29e257ab",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4fbf0b6737fec482",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Project Database/App.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": true,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
+          }
+        }
+      },
+      {
+        "id": "5d28a800e9907a18",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Project Database/App.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1e00fbf7af4d356f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Project Database/App.md"
+          }
+        }
+      },
+      {
+        "id": "d361835f617e0802",
+        "type": "leaf",
+        "state": {
+          "type": "crossbow-toolbar",
+          "state": {}
+        }
+      },
+      {
+        "id": "a531a4ee21ca5cfe",
+        "type": "leaf",
+        "state": {
+          "type": "relation-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "vantage-obsidian:Vantage - Advanced search builder": false,
+      "auto-moc:AutoMOC": false,
+      "obsidian-importer:Open Importer": false,
+      "crossbow:Crossbow": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-plugin-update-tracker:Plugin Update Tracker": false,
+      "obsidian-regex-pipeline:Regex Rulesets": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "7261c46e98440fc2",
+  "lastOpenFiles": [
+    "Project Database/Project Database.md",
+    "Project Database/1985-2023/1996/1996-10-05T120000.md",
+    "Project Database/1985-2023/1996/1996-08-26T120000.md",
+    "Project Database/1985-2023/1985-2023.md",
+    "Project Database/App.md",
+    "leonardoai.md",
+    "Project Database/Organized/ds.md",
+    "Project Database/Organized/Dsmith.md",
+    "Project Database/Organized/Dustin Smith.md",
+    "Project Database/Organized/D3VDB3VT.md",
+    "Project Database/Organized/DeadBeat.md",
+    "Project Database/Organized/Ak-47.md",
+    "Project Database/Organized/Ak-47 Ft. D.Smith.md",
+    "Project Database/Organized/Ak-47 Ft. TFoTI.md",
+    "Project Database/Portfolio/about-me.md",
+    "Project Database/Organized/Be The Light.md",
+    "Project Database/Organized/Astronaudia.md",
+    "Project Database/Organized/ANOTHERLIFE.md",
+    "Project Database/Portfolio/profiles.md",
+    "movies/no one will save you.md",
+    "assets/Barbie.jpg",
+    "movies/Untitled.md",
+    "Project Database/Addresses/1052-S-Kalamazoo-Ave.-Marshall-2014.md",
+    "assets",
+    "movies",
+    "Project Database/Addresses/1234-Arm-St-Walden-Pond-Marshall-MI-2006.md",
+    "Usernames.md",
+    "Project Database/ProDB/ProDB.md",
+    "Project Database/User ls.md",
+    "Project Database/1985-2023/2004",
+    "Project Database/1985-2023/2003",
+    "Project Database/1985-2023/2002",
+    "Project Database/1985-2023/2005",
+    "Project Database/1985-2023/1996",
+    "Project Database/1985-2023/1998",
+    "Project Database/1985-2023/1999",
+    "Project Database/1985-2023/1997",
+    "Open-Health/People/Friends/Richard/2018-03-07-054900/4139889D6A38C540C09Ed5463323338C.jpeg",
+    "Open-Health/People/Friends/Richard/2016-05-16-025900/Ef2162C7096Ddace4B70A2710413F44D.jpeg",
+    "Open-Health/People/Friends/Richard/2021-06-27-084002/996Ca1Afabdc28289151F6E24Bda9E34.jpeg",
+    "Open-Health/People/Friends/Richard/2020-04-11-030800/75C69158E7B3B156C6841Ed77D915964.jpeg",
+    "Open-Health/People/Friends/Richard/2021-06-02-100800/2071F5662138D5184Efd75D3D65Db3Ad.jpeg",
+    "Open-Health/People/Friends/Richard/2021-11-10-041700/6B88568Bbb095A72C199F5B4Dbc03211.jpeg",
+    "Open-Health/People/Friends/Richard/2021-11-10-041700/2Dcbfeb96D8Cdf03D40D2F1735B94618.jpeg",
+    "Open-Health/People/Friends/Richard/2021-11-10-041700/2B05D70Ea409C8666D06Dadbd4Fa305C.jpeg",
+    "Open-Health/People/Friends/Richard/2021-11-10-041700/D8Eebbe2Eab61Aa3F75B0B924Ad96B1D.jpeg",
+    "Open-Health/Timeline.canvas"
+  ]
+}

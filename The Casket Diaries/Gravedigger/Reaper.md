@@ -2,15 +2,17 @@
 date created: Sunday, April 17th 2022, 12:36:35 pm
 date modified: Monday, April 18th 2022, 10:41:45 pm
 title: Reaper
+datetimeCreate: 2023-10-02 06:13:00
+datetimeUpdate: 2023-10-02 12:14:30
 ---
 # Reaper
 ## [[Gravedigger Album]]
 ---
 
 
-[[Gravedigger]] , [[Lifetaker]]
+[[Gravedigger]] , [[LifetakerGD]]
 Bet you never thought you’d see my face again
-[[Betrayer]], [[Backstabber]]
+[[BetrayerGD]], [[Backstabber]]
 This time there’s only one way it ends
 
 Stabbed me in the back

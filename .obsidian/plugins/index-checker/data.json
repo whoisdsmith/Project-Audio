@@ -1,0 +1,74 @@
+{
+  "indexFileFormat": "[FOLDER]",
+  "useRootIndexFileFormat": true,
+  "rootIndexFileFormat": "[VAULT]",
+  "outputFileFormat": "_[FOLDER]",
+  "markIndexes": true,
+  "startupCheck": true,
+  "nestedMode": "NO_INDEX",
+  "allFiles": false,
+  "outputMode": "FILE",
+  "prependToIndex": false,
+  "outputLinksFormat": "***\n[LINKS]\n",
+  "persistentMarks": [
+    [
+      "Project Database/Just Some Shit About Life/Just Some Shit About Life.md",
+      "ON_TOUCH"
+    ],
+    [
+      "Project Database/1985-2023/_1985-2023.md",
+      "ON_EMPTY"
+    ],
+    [
+      "Project Database/Just Some Shit About Life/_Just Some Shit About Life.md",
+      "ON_EMPTY"
+    ],
+    [
+      "Project Database/ProDB/Blog/_Blog.md",
+      "ON_EMPTY"
+    ],
+    [
+      "Project Database/ProDB/Browser/_Browser.md",
+      "ON_EMPTY"
+    ],
+    [
+      "Project Database/ProDB/Calls/_Calls.md",
+      "ON_EMPTY"
+    ],
+    [
+      "Project Database/ProDB/FB Posts/_FB Posts.md",
+      "ON_EMPTY"
+    ],
+    [
+      "Project Database/ProDB/Google Activity/_Google Activity.md",
+      "ON_EMPTY"
+    ],
+    [
+      "Project Database/ProDB/Location/_Location.md",
+      "ON_EMPTY"
+    ],
+    [
+      "Project Database/ProDB/SMS/_SMS.md",
+      "ON_EMPTY"
+    ],
+    [
+      "Project Database/ProDB/Social Messages/_Social Messages.md",
+      "ON_EMPTY"
+    ],
+    [
+      "Project Database/ProDB/Spotify/_Spotify.md",
+      "ON_EMPTY"
+    ],
+    [
+      "Project Database/ProDB/Tweets/_Tweets.md",
+      "ON_EMPTY"
+    ]
+  ],
+  "timeStamps": [
+    1695244427313,
+    1695252117558,
+    1695252570350,
+    1695256485203,
+    1695520540434
+  ]
+}

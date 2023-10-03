@@ -1,6 +1,35 @@
 {
-  "legacyEditor": false,
-  "livePreview": true,
+  "attachmentFolderPath": "Project Database/Attachments",
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": false,
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false,
+  "livePreview": false,
   "promptDelete": false,
-  "communityPluginSortOrder": "alphabetical"
+  "mobileToolbarCommands": [
+    "editor:cut",
+    "editor:paste",
+    "editor:move-caret-left",
+    "editor:move-caret-right",
+    "editor:undo",
+    "editor:redo",
+    "editor:fold-all",
+    "editor:unfold-all",
+    "editor:insert-tag",
+    "editor:attach-file",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:insert-wikilink",
+    "editor:insert-link",
+    "editor:insert-embed",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:indent-list",
+    "editor:toggle-keyboard",
+    "editor:configure-toolbar"
+  ],
+  "mobileQuickRibbonItem": "command-palette:Open command palette"
 }

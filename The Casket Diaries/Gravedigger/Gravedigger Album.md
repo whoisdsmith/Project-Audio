@@ -2,6 +2,8 @@
 date created: Sunday, April 17th 2022, 12:36:35 pm
 date modified: Monday, April 18th 2022, 10:30:52 pm
 title: Gravedigger Album
+datetimeCreate: 2023-10-02 06:13:00
+datetimeUpdate: 2023-10-02 16:46:32
 ---
 # Gravedigger Album
 
@@ -17,14 +19,14 @@ title: Gravedigger Album
   1. [[Entry I]]
   2. [[Gravedigger]]
   3. [[Entry II]]
-  4. [[Lifetaker]]
+  4. [[LifetakerGD]]
   5. [[Entry III]]
-  6. [[Betrayer]]
+  6. [[BetrayerGD]]
   7. [[Entry IV]]
   8. [[Backstabber]]
   9. [[Entry V]]
-10. [[Revenger]]
-11. [[Reaper]]
+10. [[RevengerGD]]
+11. [[The Casket Diaries/Gravedigger/Reaper]]
 
 ---
 

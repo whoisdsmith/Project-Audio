@@ -2,6 +2,8 @@
 date created: Monday, April 18th 2022, 10:14:11 pm
 date modified: Monday, April 18th 2022, 10:38:56 pm
 title: The Casket Diaries
+datetimeCreate: 2023-10-02 06:13:00
+datetimeUpdate: 2023-10-02 16:46:34
 ---
 # The Casket Diaries
 ---
@@ -13,6 +15,10 @@ title: The Casket Diaries
 **[[Endings]]** / [Spotify](https://open.spotify.com/album/520O54VsWpkbuTFRVVg9KN) / [Apple Music](https://music.apple.com/album/1583270406)
 
 **[[Into The Unknown of The Cosmos]]** / [Spotify](https://open.spotify.com/album/7ix5yrDo1IDpXXp5yMSF9y) / [Apple Music](https://music.apple.com/album/1607776010)
+
+**[[Grim]]** / 
+
+**[[The Casket Diaries/Reaper/Reaper|Reaper]]** / 
 
 
 
@@ -84,7 +90,7 @@ title: The Casket Diaries
 
 [[Alive In December]]
 
-[[Betrayer]]
+[[BetrayerGD]]
 
 [[Backstabber]]
 
@@ -116,7 +122,7 @@ title: The Casket Diaries
 
 [[Into The Darkness]]
 
-[[Lifetaker]]
+[[LifetakerGD]]
 
 [[Let me Down]]
 
@@ -130,15 +136,15 @@ title: The Casket Diaries
 
 [[Maybe This Time It’s Forever]]
 
-[[Premeditated]]
+[[The Casket Diaries/Paradox/Premeditated]]
 
 [[Return To Sender]]
 
-[[Reaper]]
+[[The Casket Diaries/Gravedigger/Reaper]]
 
 [[Rebirth]]
 
-[[Revenger]]
+[[RevengerGD]]
 
 [[Seven]]
 
